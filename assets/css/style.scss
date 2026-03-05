@@ -1,0 +1,24 @@
+---
+---
+@import "{{ site.theme }}";
+
+:root {
+  --docs-max-width: 1800px;
+}
+
+.container-lg {
+  max-width: min(98vw, var(--docs-max-width)) !important;
+}
+
+.markdown-body table {
+  display: table;
+  width: 100%;
+  max-width: 100%;
+  overflow: visible;
+}
+
+.markdown-body th,
+.markdown-body td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
