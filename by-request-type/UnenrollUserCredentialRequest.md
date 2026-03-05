@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- UnenrollUserCredentialsRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.UnenrollUserCredentialsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UnenrollUserCredentialsRequestHandler.md)

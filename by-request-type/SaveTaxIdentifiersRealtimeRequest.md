@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- TaxIdentifiersRealtimeService
+- [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.Services.TaxIdentifiersRealtimeService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.Services.TaxIdentifiersRealtimeService.md)

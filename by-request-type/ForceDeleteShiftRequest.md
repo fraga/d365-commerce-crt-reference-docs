@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ForceDeleteShiftRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.ForceDeleteShiftRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ForceDeleteShiftRequestHandler.md)

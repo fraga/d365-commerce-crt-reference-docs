@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetEnvironmentConfigurationServiceRequestHandler
+- [Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.dll)](../by-handler/Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler.md)

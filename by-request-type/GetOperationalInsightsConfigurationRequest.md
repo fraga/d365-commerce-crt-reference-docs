@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- OperationalInsightsSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.OperationalInsightsSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.OperationalInsightsSqlServerDataService.md)

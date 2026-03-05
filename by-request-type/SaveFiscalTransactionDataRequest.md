@@ -4,9 +4,9 @@
 
 ## Handled By
 
-- FiscalTransactionSqlServerDataService
-- FiscalDocumentDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.FiscalTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.FiscalTransactionSqlServerDataService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Data.Services.FiscalDocumentDataService (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Data.Services.FiscalDocumentDataService.md)
 
 ## Triggers
 
-- SaveFiscalTransactionDataRequestTrigger
+- Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.SaveFiscalTransactionDataRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)

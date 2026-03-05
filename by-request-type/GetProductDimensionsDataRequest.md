@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- SimpleProductDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.SimpleProductDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.SimpleProductDataService.md)

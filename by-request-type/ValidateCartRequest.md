@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ValidateCartRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.Orders.ValidateCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.Orders.ValidateCartRequestHandler.md)

@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- VerifyProductExistenceRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.VerifyProductExistenceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.VerifyProductExistenceRequestHandler.md)

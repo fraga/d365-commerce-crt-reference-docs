@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- BarcodeService
+- [Microsoft.Dynamics.Commerce.Runtime.ElectronicReporting.BarcodeService (Microsoft.Dynamics.Commerce.Runtime.ElectronicReporting.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ElectronicReporting.BarcodeService.md)

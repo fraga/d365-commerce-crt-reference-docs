@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ShipmentsTransactionService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.ShipmentsTransactionService (Microsoft.Dynamics.Commerce.Runtime.TransactionService.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.ShipmentsTransactionService.md)

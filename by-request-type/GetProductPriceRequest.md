@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetProductPriceRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetProductPriceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetProductPriceRequestHandler.md)

@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- AffiliationSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AffiliationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AffiliationSqlServerDataService.md)

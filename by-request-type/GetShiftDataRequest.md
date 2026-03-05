@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ShiftDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ShiftDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ShiftDataService.md)

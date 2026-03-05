@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- WarrantySalesTransactionSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.WarrantySalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.WarrantySalesTransactionSqlServerDataService.md)

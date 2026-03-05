@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- AvailablePromotionsService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.AvailablePromotionsService (Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.AvailablePromotionsService.md)

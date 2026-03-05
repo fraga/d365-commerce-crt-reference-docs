@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetShipmentPublishingStatusRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetShipmentPublishingStatusRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetShipmentPublishingStatusRequestHandler.md)

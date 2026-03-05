@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetOnlineChannelRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetOnlineChannelRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetOnlineChannelRequestHandler.md)

@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- SendReceiptRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.SendReceiptRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SendReceiptRequestHandler.md)

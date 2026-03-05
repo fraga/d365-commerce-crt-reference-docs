@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- FulfillmentGroupDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.FulfillmentGroupDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.FulfillmentGroupDataService.md)

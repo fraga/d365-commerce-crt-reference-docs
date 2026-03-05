@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetAggregationGrantRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Services.GetAggregationGrantRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.GetAggregationGrantRequestHandler.md)

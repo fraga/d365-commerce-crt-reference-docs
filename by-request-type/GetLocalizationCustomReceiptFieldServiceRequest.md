@@ -4,26 +4,26 @@
 
 ## Handled By
 
-- FiscalDocumentReceiptService
-- GteReceiptService
-- ReceiptSwedenService
-- ReceiptService
-- TaxRegistrationIdReceiptService
-- ReceiptNorwayService
-- TaxRegistrationIdReceiptService
-- TaxRegistrationIdReceiptService
-- GteReceiptService
-- ReceiptGermanyService
-- ReceiptFranceService
-- ReceiptCzechiaService
-- ReceiptAustriaService
-- ReceiptAustriaService
-- ReceiptCzechiaService
-- ReceiptFranceService
-- ReceiptGermanyService
-- GetSalesTransactionCustomReceiptFieldService
-- ReceiptSwedenService
-- TaxIdentifiersReceiptService
-- TaxRegistrationIdReceiptService
-- TaxRegistrationIdReceiptService
-- TaxRegistrationIdReceiptService
+- [Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Services.FiscalDocumentReceiptService (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Services.FiscalDocumentReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.GenericTaxEngine.GteReceiptService (Microsoft.Dynamics.Commerce.Runtime.GenericTaxEngine.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.GenericTaxEngine.GteReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.ReceiptSwedenService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.ReceiptSwedenService__Microsoft.Dynamics.Commerce.Runtime.Localization.Services.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.SaudiArabia.Services.ReceiptService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.SaudiArabia.Services.ReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Poland.TaxRegistrationId.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Poland.TaxRegistrationId.Services.TaxRegistrationIdReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Norway.Receipts.ReceiptNorwayService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Norway.Receipts.ReceiptNorwayService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Italy.TaxRegistrationId.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Italy.TaxRegistrationId.Services.TaxRegistrationIdReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.India.TaxRegistrationId.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.India.TaxRegistrationId.Services.TaxRegistrationIdReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.India.Receipt.GteReceiptService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.India.Receipt.GteReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Germany.Receipts.ReceiptGermanyService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Germany.Receipts.ReceiptGermanyService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.Receipts.ReceiptFranceService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.Receipts.ReceiptFranceService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Czechia.Receipts.ReceiptCzechiaService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Czechia.Receipts.ReceiptCzechiaService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Austria.Receipts.ReceiptAustriaService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Austria.Receipts.ReceiptAustriaService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsAustria.ReceiptAustriaService (Microsoft.Dynamics.Commerce.Runtime.ReceiptsAustria.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsAustria.ReceiptAustriaService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsCzechia.ReceiptCzechiaService (Microsoft.Dynamics.Commerce.Runtime.ReceiptsCzechia.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsCzechia.ReceiptCzechiaService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsFrance.ReceiptFranceService (Microsoft.Dynamics.Commerce.Runtime.ReceiptsFrance.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsFrance.ReceiptFranceService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsGermany.ReceiptGermanyService (Microsoft.Dynamics.Commerce.Runtime.ReceiptsGermany.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsGermany.ReceiptGermanyService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsSaudiArabia.GetSalesTransactionCustomReceiptFieldService (Microsoft.Dynamics.Commerce.Runtime.ReceiptsSaudiArabia.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsSaudiArabia.GetSalesTransactionCustomReceiptFieldService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.ReceiptSwedenService (Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.ReceiptSwedenService__Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.md)
+- [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.Services.TaxIdentifiersReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.Services.TaxIdentifiersReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Services.TaxRegistrationIdReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Services.TaxRegistrationIdReceiptService.md)
+- [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Services.TaxRegistrationIdReceiptService.md)

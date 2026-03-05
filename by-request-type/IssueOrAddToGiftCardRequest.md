@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- IssueOrAddToGiftCardRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.IssueOrAddToGiftCardRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.IssueOrAddToGiftCardRequestHandler.md)

@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- AppInfoTransactionService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.AppInfoTransactionService (Microsoft.Dynamics.Commerce.Runtime.TransactionService.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.AppInfoTransactionService.md)

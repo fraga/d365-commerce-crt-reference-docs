@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- StorageLookupDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.StorageLookupDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.StorageLookupDataService.md)

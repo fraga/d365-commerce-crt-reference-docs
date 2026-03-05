@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetIndependentProductPriceDiscountRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetIndependentProductPriceDiscountRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetIndependentProductPriceDiscountRequestHandler.md)

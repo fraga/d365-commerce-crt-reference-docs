@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- SuspendCartRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler.md)

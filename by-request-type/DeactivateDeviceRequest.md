@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- DeactivateDeviceRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.DeactivateDeviceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.DeactivateDeviceRequestHandler.md)

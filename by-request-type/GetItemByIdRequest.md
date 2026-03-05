@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetItemByIdRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetItemByIdRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetItemByIdRequestHandler.md)

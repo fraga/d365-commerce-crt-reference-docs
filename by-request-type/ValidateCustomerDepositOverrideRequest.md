@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ValidateCustomerDepositOverrideRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateCustomerDepositOverrideRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateCustomerDepositOverrideRequestHandler.md)

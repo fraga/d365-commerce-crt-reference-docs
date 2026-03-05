@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- TillLayoutSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.TillLayoutSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.TillLayoutSqlServerDataService.md)

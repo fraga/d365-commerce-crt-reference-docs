@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- AzureSearchPublishService
+- [Microsoft.Dynamics.Commerce.Runtime.SearchServices.Azure.AzureSearchPublishService (Microsoft.Dynamics.Commerce.Runtime.SearchServices.Azure.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.SearchServices.Azure.AzureSearchPublishService.md)

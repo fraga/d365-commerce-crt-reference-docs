@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- CustomerOrderDocumentOperationSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CustomerOrderDocumentOperationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CustomerOrderDocumentOperationSqlServerDataService.md)

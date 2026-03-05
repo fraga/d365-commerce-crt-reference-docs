@@ -4,8 +4,8 @@
 
 ## Handled By
 
-- ProductListSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ProductListSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ProductListSqlServerDataService.md)
 
 ## Triggers
 
-- DataAuthorizationTrigger
+- Microsoft.Dynamics.Commerce.Runtime.Workflow.DataAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)

@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- BeginReadChangedProductsRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.BeginReadChangedProductsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.BeginReadChangedProductsRequestHandler.md)

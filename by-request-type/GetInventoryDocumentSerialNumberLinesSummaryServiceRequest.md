@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- InventoryDocumentTrackingDimensionService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.InventoryDocumentTrackingDimensionService (Microsoft.Dynamics.Commerce.Runtime.Services.Inventory.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.InventoryDocumentTrackingDimensionService.md)

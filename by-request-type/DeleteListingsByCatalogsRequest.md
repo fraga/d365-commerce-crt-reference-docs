@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- DeleteListingsByCatalogsRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.DeleteListingsByCatalogsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.DeleteListingsByCatalogsRequestHandler.md)

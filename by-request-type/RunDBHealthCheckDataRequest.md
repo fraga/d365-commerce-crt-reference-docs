@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- HealthCheckDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.HealthCheckDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.HealthCheckDataService.md)

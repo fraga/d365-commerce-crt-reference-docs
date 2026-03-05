@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- FiscalSoapService
+- [Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalServiceBrazil.Services.FiscalSoapService (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalServiceBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalServiceBrazil.Services.FiscalSoapService.md)

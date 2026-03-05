@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetDeletedListingsRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetDeletedListingsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetDeletedListingsRequestHandler.md)

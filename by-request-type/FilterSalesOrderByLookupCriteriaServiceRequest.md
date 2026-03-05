@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- FilterSalesOrderByLookupCriteriaServiceRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.FilterSalesOrderByLookupCriteriaServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.FilterSalesOrderByLookupCriteriaServiceRequestHandler.md)

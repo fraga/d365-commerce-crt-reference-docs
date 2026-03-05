@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- UpdateFulfillmentLocationsForSalesLinesServiceRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateFulfillmentLocationsForSalesLinesServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateFulfillmentLocationsForSalesLinesServiceRequestHandler.md)

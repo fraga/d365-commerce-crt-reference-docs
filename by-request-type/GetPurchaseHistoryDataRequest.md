@@ -4,8 +4,8 @@
 
 ## Handled By
 
-- CustomerSqlServerDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CustomerSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CustomerSqlServerDataService.md)
 
 ## Triggers
 
-- PrependAzureCmsMediaBaseUrlTrigger
+- Microsoft.Dynamics.Commerce.Runtime.Workflow.PrependAzureCmsMediaBaseUrlTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)

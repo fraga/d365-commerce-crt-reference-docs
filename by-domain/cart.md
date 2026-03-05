@@ -2,43 +2,43 @@
 
 ## Handlers (24)
 
-| Handler | Kind | Assembly | Supported Requests |
-|---------|------|----------|--------------------|
-| AddCartLineChargeRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | AddCartLineChargeRequest |
-| AddCartLinesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | AddCartLinesRequest |
-| AddOrderInvoiceToCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | AddOrderInvoiceToCartRequest |
-| AddReturnCartLinesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | AddReturnCartLinesRequest |
-| CartService | handler | Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll | GetSalesTransactionsServiceRequest, GetCartServiceRequest, CalculateSalesTransactionServiceRequest, CalculateRefundableAmountsServiceRequest, CalculateEstimatedShippingAuthorizationAmountServiceRequest (+11) |
-| CheckoutCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | CheckoutCartRequest |
-| CopyCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | CopyCartRequest |
-| CreateCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | CreateCartRequest |
-| GetCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | GetCartRequest |
-| GetProductsInCartLinesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | GetProductsInCartLinesRequest |
-| OverrideCartLineChargeRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | OverrideCartLineChargeRequest |
-| OverrideCartLinePriceRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | OverrideCartLinePriceRequest |
-| ProcessCartWarrantiesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | ProcessCartWarrantiesRequest |
-| RemoveCartLinesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | RemoveCartLinesRequest |
-| ResumeCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | ResumeCartRequest |
-| SaveCartLinesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | SaveCartLinesRequest |
-| SaveCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | SaveCartRequest |
-| SuspendCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | SuspendCartRequest |
-| TransferCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | TransferCartRequest |
-| UpdateCartLinesRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | UpdateCartLinesRequest |
-| UpdateCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | UpdateCartRequest |
-| ValidateCartForCheckoutRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | ValidateCartForCheckoutRequest |
-| ValidateCartRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | ValidateCartRequest |
-| VoidSuspendedCartsRequestHandler | single_handler | Microsoft.Dynamics.Commerce.Runtime.Workflow.dll | VoidSuspendedCartsRequest |
+| Handler | Kind | Supported Requests |
+|---------|------|--------------------|
+| [Microsoft.Dynamics.Commerce.Runtime.Services.CartService (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CartService.md) | handler | [GetSalesTransactionsServiceRequest](../by-request-type/GetSalesTransactionsServiceRequest.md), [GetCartServiceRequest](../by-request-type/GetCartServiceRequest.md), [CalculateSalesTransactionServiceRequest](../by-request-type/CalculateSalesTransactionServiceRequest.md), [CalculateRefundableAmountsServiceRequest](../by-request-type/CalculateRefundableAmountsServiceRequest.md), [CalculateEstimatedShippingAuthorizationAmountServiceRequest](../by-request-type/CalculateEstimatedShippingAuthorizationAmountServiceRequest.md) (+11) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.AddCartLineChargeRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.AddCartLineChargeRequestHandler.md) | single_handler | [AddCartLineChargeRequest](../by-request-type/AddCartLineChargeRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.AddCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.AddCartLinesRequestHandler.md) | single_handler | [AddCartLinesRequest](../by-request-type/AddCartLinesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.AddOrderInvoiceToCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.AddOrderInvoiceToCartRequestHandler.md) | single_handler | [AddOrderInvoiceToCartRequest](../by-request-type/AddOrderInvoiceToCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.AddReturnCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.AddReturnCartLinesRequestHandler.md) | single_handler | [AddReturnCartLinesRequest](../by-request-type/AddReturnCartLinesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.CheckoutCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CheckoutCartRequestHandler.md) | single_handler | [CheckoutCartRequest](../by-request-type/CheckoutCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.CopyCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CopyCartRequestHandler.md) | single_handler | [CopyCartRequest](../by-request-type/CopyCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateCartRequestHandler.md) | single_handler | [CreateCartRequest](../by-request-type/CreateCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCartRequestHandler.md) | single_handler | [GetCartRequest](../by-request-type/GetCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetProductsInCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetProductsInCartLinesRequestHandler.md) | single_handler | [GetProductsInCartLinesRequest](../by-request-type/GetProductsInCartLinesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.Orders.ValidateCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.Orders.ValidateCartRequestHandler.md) | single_handler | [ValidateCartRequest](../by-request-type/ValidateCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.OverrideCartLineChargeRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.OverrideCartLineChargeRequestHandler.md) | single_handler | [OverrideCartLineChargeRequest](../by-request-type/OverrideCartLineChargeRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.OverrideCartLinePriceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.OverrideCartLinePriceRequestHandler.md) | single_handler | [OverrideCartLinePriceRequest](../by-request-type/OverrideCartLinePriceRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.ProcessCartWarrantiesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ProcessCartWarrantiesRequestHandler.md) | single_handler | [ProcessCartWarrantiesRequest](../by-request-type/ProcessCartWarrantiesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.RemoveCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.RemoveCartLinesRequestHandler.md) | single_handler | [RemoveCartLinesRequest](../by-request-type/RemoveCartLinesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.ResumeCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ResumeCartRequestHandler.md) | single_handler | [ResumeCartRequest](../by-request-type/ResumeCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartLinesRequestHandler.md) | single_handler | [SaveCartLinesRequest](../by-request-type/SaveCartLinesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartRequestHandler.md) | single_handler | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler.md) | single_handler | [SuspendCartRequest](../by-request-type/SuspendCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.TransferCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.TransferCartRequestHandler.md) | single_handler | [TransferCartRequest](../by-request-type/TransferCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartLinesRequestHandler.md) | single_handler | [UpdateCartLinesRequest](../by-request-type/UpdateCartLinesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartRequestHandler.md) | single_handler | [UpdateCartRequest](../by-request-type/UpdateCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateCartForCheckoutRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateCartForCheckoutRequestHandler.md) | single_handler | [ValidateCartForCheckoutRequest](../by-request-type/ValidateCartForCheckoutRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.VoidSuspendedCartsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.VoidSuspendedCartsRequestHandler.md) | single_handler | [VoidSuspendedCartsRequest](../by-request-type/VoidSuspendedCartsRequest.md) |
 
 ## Triggers (9)
 
-| Trigger | Assembly | Supported Requests |
-|---------|----------|--------------------|
-| SaveCartRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll | SaveCartRequest |
-| SaveCartRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll | SaveCartRequest |
-| SaveCartRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll | SaveCartRequest |
-| SaveCartRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll | SaveCartRequest |
-| SaveCartRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll | SaveCartRequest |
-| SaveCartRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll | SaveCartRequest |
-| SaveCartVersionedDataRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll | SaveCartVersionedDataRequest |
-| ValidateCartForCheckoutRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll | ValidateCartForCheckoutRequest |
-| ValidateCartForCheckoutRequestTrigger | Microsoft.Dynamics.Commerce.Runtime.MandatoryTaxGroupItaly.dll | ValidateCartForCheckoutRequest |
+| Trigger | Supported Requests |
+|---------|--------------------|
+| Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.SaveCartVersionedDataRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll) | [SaveCartVersionedDataRequest](../by-request-type/SaveCartVersionedDataRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.ValidateCartForCheckoutRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll) | [ValidateCartForCheckoutRequest](../by-request-type/ValidateCartForCheckoutRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Italy.TaxRegistrationId.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Poland.TaxRegistrationId.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Russia.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.MandatoryTaxGroupItaly.ValidateCartForCheckoutRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.MandatoryTaxGroupItaly.dll) | [ValidateCartForCheckoutRequest](../by-request-type/ValidateCartForCheckoutRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
+| Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |

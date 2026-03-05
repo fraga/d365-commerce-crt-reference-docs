@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ResumeCartRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.ResumeCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ResumeCartRequestHandler.md)

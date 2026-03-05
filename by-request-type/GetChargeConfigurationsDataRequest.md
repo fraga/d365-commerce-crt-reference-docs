@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ChargeDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ChargeDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ChargeDataService.md)

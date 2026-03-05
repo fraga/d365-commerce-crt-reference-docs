@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetOrderManagementConfigurationServiceRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Services.GetOrderManagementConfigurationServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.GetOrderManagementConfigurationServiceRequestHandler.md)

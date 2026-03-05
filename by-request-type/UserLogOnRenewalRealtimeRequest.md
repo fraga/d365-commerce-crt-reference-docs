@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- UserAuthenticationTransactionService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.UserAuthenticationTransactionService (Microsoft.Dynamics.Commerce.Runtime.TransactionService.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.UserAuthenticationTransactionService.md)

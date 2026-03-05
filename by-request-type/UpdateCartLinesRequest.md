@@ -4,8 +4,8 @@
 
 ## Handled By
 
-- UpdateCartLinesRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartLinesRequestHandler.md)
 
 ## Triggers
 
-- ValidateBusinessPartnerCatalogTrigger
+- Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)

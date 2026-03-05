@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- UserLogOffRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.UserLogOffRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UserLogOffRequestHandler.md)

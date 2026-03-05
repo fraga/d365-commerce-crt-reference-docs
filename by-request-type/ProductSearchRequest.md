@@ -4,8 +4,8 @@
 
 ## Handled By
 
-- SearchProductsRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.SearchProductsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SearchProductsRequestHandler.md)
 
 ## Triggers
 
-- ValidateBusinessPartnerCatalogTrigger
+- Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)

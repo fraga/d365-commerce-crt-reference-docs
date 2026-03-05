@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- GetAvailableToPromiseInventoryRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.ChannelProductAvailability.GetAvailableToPromiseInventoryRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ChannelProductAvailability.GetAvailableToPromiseInventoryRequestHandler.md)

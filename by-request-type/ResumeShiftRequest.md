@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- ResumeShiftRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.ResumeShiftRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ResumeShiftRequestHandler.md)

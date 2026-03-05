@@ -4,8 +4,8 @@
 
 ## Handled By
 
-- ProductListService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.ProductListService (Microsoft.Dynamics.Commerce.Runtime.Services.Merchandising.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.ProductListService.md)
 
 ## Triggers
 
-- ValidateBusinessPartnerCatalogTrigger
+- Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)

@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- UpdateDeliverySpecificationsRequestHandler
+- [Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateDeliverySpecificationsRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateDeliverySpecificationsRequestHandler.md)

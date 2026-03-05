@@ -4,4 +4,4 @@
 
 ## Handled By
 
-- FormattedReceiptService
+- [Microsoft.Dynamics.Commerce.Runtime.Services.FormattedReceiptService (Microsoft.Dynamics.Commerce.Runtime.Services.Receipts.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.FormattedReceiptService.md)
