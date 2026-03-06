@@ -103,12 +103,27 @@ body {
   background-color: var(--docs-surface-alt) !important;
 }
 
-.markdown-body code,
-.markdown-body pre {
-  background: var(--docs-code-bg);
+.markdown-body code {
+  background-color: var(--docs-code-bg);
+  color: var(--docs-text);
 }
 
-.markdown-body .highlight pre,
-.markdown-body pre > code {
-  background: transparent;
+.markdown-body pre,
+.markdown-body div.highlight,
+.markdown-body div.highlight pre {
+  background-color: var(--docs-code-bg) !important;
+  color: var(--docs-text) !important;
+  border-color: var(--docs-border);
+}
+
+.markdown-body pre > code,
+.markdown-body div.highlight pre > code,
+.markdown-body div.highlight code {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+
+.markdown-body div.highlight span,
+.markdown-body pre code span {
+  color: var(--docs-text) !important;
 }
