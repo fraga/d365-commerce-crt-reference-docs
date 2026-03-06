@@ -14,6 +14,14 @@
   --docs-link: #0b69a8;
   --docs-code-bg: #eef2f7;
   --docs-table-header: #e9f1f8;
+  --docs-code-comment: #6e7781;
+  --docs-code-keyword: #cf222e;
+  --docs-code-string: #0a3069;
+  --docs-code-type: #8250df;
+  --docs-code-function: #8250df;
+  --docs-code-number: #0550ae;
+  --docs-code-tag: #116329;
+  --docs-code-attribute: #0550ae;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -28,6 +36,14 @@
     --docs-link: #7ec8ff;
     --docs-code-bg: #0f1724;
     --docs-table-header: #16263d;
+    --docs-code-comment: #8b949e;
+    --docs-code-keyword: #ff7b72;
+    --docs-code-string: #a5d6ff;
+    --docs-code-type: #d2a8ff;
+    --docs-code-function: #d2a8ff;
+    --docs-code-number: #79c0ff;
+    --docs-code-tag: #7ee787;
+    --docs-code-attribute: #79c0ff;
   }
 }
 
@@ -123,7 +139,117 @@ body {
   color: inherit !important;
 }
 
-.markdown-body div.highlight span,
-.markdown-body pre code span {
-  color: var(--docs-text) !important;
+.markdown-body div.highlight .c,
+.markdown-body div.highlight .c1,
+.markdown-body div.highlight .cm,
+.markdown-body div.highlight .cs,
+.markdown-body pre code .c,
+.markdown-body pre code .c1,
+.markdown-body pre code .cm,
+.markdown-body pre code .cs {
+  color: var(--docs-code-comment) !important;
+  font-style: italic;
+}
+
+.markdown-body div.highlight .k,
+.markdown-body div.highlight .kd,
+.markdown-body div.highlight .kn,
+.markdown-body div.highlight .kp,
+.markdown-body div.highlight .kr,
+.markdown-body div.highlight .ow,
+.markdown-body pre code .k,
+.markdown-body pre code .kd,
+.markdown-body pre code .kn,
+.markdown-body pre code .kp,
+.markdown-body pre code .kr,
+.markdown-body pre code .ow {
+  color: var(--docs-code-keyword) !important;
+}
+
+.markdown-body div.highlight .kt,
+.markdown-body div.highlight .nc,
+.markdown-body div.highlight .nd,
+.markdown-body div.highlight .ne,
+.markdown-body div.highlight .nn,
+.markdown-body pre code .kt,
+.markdown-body pre code .nc,
+.markdown-body pre code .nd,
+.markdown-body pre code .ne,
+.markdown-body pre code .nn {
+  color: var(--docs-code-type) !important;
+}
+
+.markdown-body div.highlight .nf,
+.markdown-body div.highlight .fm,
+.markdown-body pre code .nf,
+.markdown-body pre code .fm {
+  color: var(--docs-code-function) !important;
+}
+
+.markdown-body div.highlight .s,
+.markdown-body div.highlight .s1,
+.markdown-body div.highlight .s2,
+.markdown-body div.highlight .sa,
+.markdown-body div.highlight .sb,
+.markdown-body div.highlight .sc,
+.markdown-body div.highlight .sd,
+.markdown-body div.highlight .se,
+.markdown-body div.highlight .sh,
+.markdown-body div.highlight .si,
+.markdown-body div.highlight .sr,
+.markdown-body div.highlight .ss,
+.markdown-body div.highlight .sx,
+.markdown-body div.highlight .dl,
+.markdown-body pre code .s,
+.markdown-body pre code .s1,
+.markdown-body pre code .s2,
+.markdown-body pre code .sa,
+.markdown-body pre code .sb,
+.markdown-body pre code .sc,
+.markdown-body pre code .sd,
+.markdown-body pre code .se,
+.markdown-body pre code .sh,
+.markdown-body pre code .si,
+.markdown-body pre code .sr,
+.markdown-body pre code .ss,
+.markdown-body pre code .sx,
+.markdown-body pre code .dl {
+  color: var(--docs-code-string) !important;
+}
+
+.markdown-body div.highlight .m,
+.markdown-body div.highlight .mb,
+.markdown-body div.highlight .mf,
+.markdown-body div.highlight .mh,
+.markdown-body div.highlight .mi,
+.markdown-body div.highlight .mo,
+.markdown-body div.highlight .il,
+.markdown-body div.highlight .kc,
+.markdown-body pre code .m,
+.markdown-body pre code .mb,
+.markdown-body pre code .mf,
+.markdown-body pre code .mh,
+.markdown-body pre code .mi,
+.markdown-body pre code .mo,
+.markdown-body pre code .il,
+.markdown-body pre code .kc {
+  color: var(--docs-code-number) !important;
+}
+
+.markdown-body div.highlight .nt,
+.markdown-body pre code .nt {
+  color: var(--docs-code-tag) !important;
+}
+
+.markdown-body div.highlight .na,
+.markdown-body div.highlight .nv,
+.markdown-body div.highlight .vc,
+.markdown-body div.highlight .vg,
+.markdown-body div.highlight .vi,
+.markdown-body pre code .na,
+.markdown-body pre code .nv,
+.markdown-body pre code .vc,
+.markdown-body pre code .vg,
+.markdown-body pre code .vi {
+  color: var(--docs-code-attribute) !important;
 }
