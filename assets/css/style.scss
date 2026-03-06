@@ -3,11 +3,71 @@
 @import "{{ site.theme }}";
 
 :root {
+  color-scheme: light;
   --docs-max-width: 1800px;
+  --docs-bg: #f7f9fc;
+  --docs-surface: #ffffff;
+  --docs-surface-alt: #f1f5f9;
+  --docs-text: #17202b;
+  --docs-muted: #526170;
+  --docs-border: #d0d7de;
+  --docs-link: #0b69a8;
+  --docs-code-bg: #eef2f7;
+  --docs-table-header: #e9f1f8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --docs-bg: #0b1220;
+    --docs-surface: #121a29;
+    --docs-surface-alt: #182235;
+    --docs-text: #e6edf5;
+    --docs-muted: #9fb0c3;
+    --docs-border: #314154;
+    --docs-link: #7ec8ff;
+    --docs-code-bg: #0f1724;
+    --docs-table-header: #16263d;
+  }
+}
+
+html,
+body {
+  background: var(--docs-bg);
+  color: var(--docs-text);
 }
 
 .container-lg {
   max-width: min(98vw, var(--docs-max-width)) !important;
+  padding-left: min(2.5vw, 28px);
+  padding-right: min(2.5vw, 28px);
+}
+
+.markdown-body {
+  color: var(--docs-text);
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: var(--docs-text);
+  border-bottom-color: var(--docs-border);
+}
+
+.markdown-body a {
+  color: var(--docs-link);
+}
+
+.markdown-body hr {
+  background-color: var(--docs-border);
+}
+
+.markdown-body blockquote {
+  color: var(--docs-muted);
+  border-left-color: var(--docs-border);
 }
 
 .markdown-body table {
@@ -15,10 +75,35 @@
   width: 100%;
   max-width: 100%;
   overflow: visible;
+  background: var(--docs-surface);
 }
 
 .markdown-body th,
 .markdown-body td {
   white-space: normal;
   overflow-wrap: anywhere;
+  border-color: var(--docs-border);
+}
+
+.markdown-body th {
+  background: var(--docs-table-header);
+}
+
+.markdown-body tr {
+  background: var(--docs-surface);
+  border-top-color: var(--docs-border);
+}
+
+.markdown-body tr:nth-child(2n) {
+  background: var(--docs-surface-alt);
+}
+
+.markdown-body code,
+.markdown-body pre {
+  background: var(--docs-code-bg);
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre > code {
+  background: transparent;
 }
