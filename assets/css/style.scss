@@ -75,27 +75,32 @@ body {
   width: 100%;
   max-width: 100%;
   overflow: visible;
-  background: var(--docs-surface);
+  background-color: var(--docs-surface);
+  color: var(--docs-text);
 }
 
-.markdown-body th,
-.markdown-body td {
+.markdown-body table th,
+.markdown-body table td {
   white-space: normal;
   overflow-wrap: anywhere;
   border-color: var(--docs-border);
+  color: var(--docs-text);
+  background-color: var(--docs-surface) !important;
 }
 
-.markdown-body th {
-  background: var(--docs-table-header);
+.markdown-body table th {
+  background-color: var(--docs-table-header) !important;
+  color: var(--docs-text);
 }
 
-.markdown-body tr {
-  background: var(--docs-surface);
+.markdown-body table tr {
+  background-color: var(--docs-surface) !important;
   border-top-color: var(--docs-border);
 }
 
-.markdown-body tr:nth-child(2n) {
-  background: var(--docs-surface-alt);
+.markdown-body table tr:nth-child(2n),
+.markdown-body table tr:nth-child(2n) td {
+  background-color: var(--docs-surface-alt) !important;
 }
 
 .markdown-body code,
