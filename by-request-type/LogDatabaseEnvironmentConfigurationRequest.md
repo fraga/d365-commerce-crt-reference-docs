@@ -1,6 +1,9 @@
 # LogDatabaseEnvironmentConfigurationRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.LogDatabaseEnvironmentConfigurationRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** other
+**Inherits:** Request
 
 ## Handled By
 

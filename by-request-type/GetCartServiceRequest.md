@@ -1,6 +1,9 @@
 # GetCartServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCartServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** cart
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,11 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ServicesAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `CartSearchCriteria` | SearchCriteria |
+| `bool` | IncludeHistoricalTenderLines |
+| `bool` | IgnoreProductDiscontinuedNotification |

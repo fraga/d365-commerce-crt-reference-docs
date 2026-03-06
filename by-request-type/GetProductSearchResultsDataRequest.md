@@ -1,6 +1,9 @@
 # GetProductSearchResultsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductSearchResultsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** product
+**Inherits:** DataRequest
 
 ## Handled By
 
@@ -9,3 +12,13 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.PrependAzureCmsMediaBaseUrlTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `long` | CatalogId |
+| `long?` | CategoryId |
+| `long` | ChannelId |
+| `string` | SearchText |
+| `bool` | UseFuzzySearch |

@@ -1,6 +1,9 @@
 # GetClientelingParametersDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetClientelingParametersDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** customer
+**Inherits:** DataRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # ChangeShiftStatusRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.ChangeShiftStatusRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** employee
+**Inherits:** Request
 
 ## Handled By
 
@@ -11,3 +14,15 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowsAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `string` | TerminalId |
+| `long` | ShiftId |
+| `string` | ShiftTerminalId |
+| `ShiftStatus` | ToStatus |
+| `bool` | CanForceClose |
+| `string` | TransactionId |
+| `bool` | HasOfflinePendingTransactions |

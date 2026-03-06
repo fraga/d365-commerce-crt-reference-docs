@@ -1,6 +1,9 @@
 # GetStoresByEmployeeServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStoresByEmployeeServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** employee
+**Inherits:** Request
 
 ## Handled By
 

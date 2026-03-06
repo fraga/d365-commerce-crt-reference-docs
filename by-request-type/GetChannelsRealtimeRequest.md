@@ -1,6 +1,9 @@
 # GetChannelsRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.GetChannelsRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** channel
+**Inherits:** RealtimeRequest
 
 ## Handled By
 

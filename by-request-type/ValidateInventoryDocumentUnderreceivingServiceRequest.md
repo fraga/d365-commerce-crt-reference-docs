@@ -1,6 +1,9 @@
 # ValidateInventoryDocumentUnderreceivingServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateInventoryDocumentUnderreceivingServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** inventory
+**Inherits:** ValidateInventoryDocumentCategoryServiceRequest
 
 ## Handled By
 

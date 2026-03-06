@@ -1,6 +1,9 @@
 # GetElectronicInvoicingServiceRuntimeSettingsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.ElectronicInvoicingService.GetElectronicInvoicingServiceRuntimeSettingsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.ElectronicInvoicingService.dll
 **Domain:** other
+**Inherits:** DataRequest
 
 ## Handled By
 

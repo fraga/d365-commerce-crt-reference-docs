@@ -1,6 +1,9 @@
 # GetLocalizationCustomReceiptFieldServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetLocalizationCustomReceiptFieldServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** GetCustomReceiptFieldServiceRequest
 
 ## Handled By
 
@@ -27,3 +30,14 @@
 - [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Services.TaxRegistrationIdReceiptService.md)
 - [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Services.TaxRegistrationIdReceiptService.md)
 - [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Services.TaxRegistrationIdReceiptService.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `SalesOrder` | SalesOrder |
+| `SalesLine` | SalesLine |
+| `TenderLine` | TenderLine |
+| `TaxLine` | TaxLine |
+| `CustomerAccountDepositLine` | CustomerAccountDepositLine |
+| `IncomeExpenseLine` | IncomeExpenseLine |

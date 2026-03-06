@@ -1,6 +1,9 @@
 # SaveProductListServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveProductListServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** product
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `ProductList` | ProductList |
+| `ProductListOperationType` | Operation |

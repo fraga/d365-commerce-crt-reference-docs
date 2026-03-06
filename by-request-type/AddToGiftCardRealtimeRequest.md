@@ -1,6 +1,9 @@
 # AddToGiftCardRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.AddToGiftCardRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** other
+**Inherits:** GiftCardRealtimeRequestBase
 
 ## Handled By
 

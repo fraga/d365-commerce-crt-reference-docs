@@ -1,6 +1,9 @@
 # GetChannelCategoriesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetChannelCategoriesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** channel
+**Inherits:** DataRequest
 
 ## Handled By
 
@@ -10,3 +13,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.PrependAzureCmsMediaBaseUrlTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `long` | ChannelId |

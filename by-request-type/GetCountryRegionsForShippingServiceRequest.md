@@ -1,6 +1,9 @@
 # GetCountryRegionsForShippingServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCountryRegionsForShippingServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** shipping
+**Inherits:** GetAddressInfoServiceRequest
 
 ## Handled By
 

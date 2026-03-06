@@ -1,6 +1,9 @@
 # GetRecommendationServiceCredentialsRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.GetRecommendationServiceCredentialsRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** product
+**Inherits:** RealtimeRequest
 
 ## Handled By
 

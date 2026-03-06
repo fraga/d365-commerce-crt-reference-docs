@@ -1,6 +1,9 @@
 # GetCustomerSearchFieldsServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomerSearchFieldsServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** customer
+**Inherits:** ServiceRequest
 
 ## Handled By
 

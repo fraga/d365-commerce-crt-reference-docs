@@ -1,7 +1,17 @@
 # GetRoundQuantityServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRoundQuantityServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** ServiceRequest
 
 ## Handled By
 
 - [Microsoft.Dynamics.Commerce.Runtime.Services.RoundingService (Microsoft.Dynamics.Commerce.Runtime.Services.Utilities.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.RoundingService.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `string` | UnitOfMeasure |
+| `decimal` | Value |

@@ -1,6 +1,9 @@
 # GetRegistrationProcessFiscalIntegrationServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRegistrationProcessFiscalIntegrationServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** tax
+**Inherits:** ServiceRequest
 
 ## Handled By
 

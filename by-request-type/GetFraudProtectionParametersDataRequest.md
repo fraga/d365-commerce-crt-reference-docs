@@ -1,6 +1,9 @@
 # GetFraudProtectionParametersDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetFraudProtectionParametersDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** other
+**Inherits:** Request
 
 ## Handled By
 

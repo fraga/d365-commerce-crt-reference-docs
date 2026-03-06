@@ -1,6 +1,9 @@
 # GetCurrentBusinessPartnerUserServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCurrentBusinessPartnerUserServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** customer
+**Inherits:** ServiceRequest
 
 ## Handled By
 

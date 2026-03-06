@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll
 **Kind:** handler
 
-## Requests Handled (10)
+## Requests Handled (11)
 
 - [CalculatePricesServiceRequest](../by-request-type/CalculatePricesServiceRequest.md)
 - [CalculateDiscountsServiceRequest](../by-request-type/CalculateDiscountsServiceRequest.md)
@@ -15,6 +15,7 @@
 - [CalculateTenderDiscountServiceRequest](../by-request-type/CalculateTenderDiscountServiceRequest.md)
 - [CalculateSalesDocumentServiceRequest](../by-request-type/CalculateSalesDocumentServiceRequest.md)
 - [ValidateGiftCardInCartLineRequest](../by-request-type/ValidateGiftCardInCartLineRequest.md)
+- [GetPriceGroupsByPriceLookupContextServiceRequest](../by-request-type/GetPriceGroupsByPriceLookupContextServiceRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -34,3 +35,4 @@ No triggers were found for this handler's request types.
 | [CalculateTenderDiscountServiceRequest](../by-request-type/CalculateTenderDiscountServiceRequest.md) |  |
 | [CalculateSalesDocumentServiceRequest](../by-request-type/CalculateSalesDocumentServiceRequest.md) |  |
 | [ValidateGiftCardInCartLineRequest](../by-request-type/ValidateGiftCardInCartLineRequest.md) |  |
+| [GetPriceGroupsByPriceLookupContextServiceRequest](../by-request-type/GetPriceGroupsByPriceLookupContextServiceRequest.md) |  |

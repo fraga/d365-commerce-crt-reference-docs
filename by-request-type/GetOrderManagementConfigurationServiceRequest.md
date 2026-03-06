@@ -1,6 +1,9 @@
 # GetOrderManagementConfigurationServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.Orders.GetOrderManagementConfigurationServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** Request
 
 ## Handled By
 

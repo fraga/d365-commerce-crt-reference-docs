@@ -1,6 +1,9 @@
 # GetDistrictServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetDistrictServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** GetAddressInfoServiceRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # GetCustomersServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomersServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** customer
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -15,3 +18,11 @@
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Triggers.GetCustomersServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.dll)
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Triggers.GetCustomersServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll)
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Triggers.GetCustomersServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `string` | CustomerAccountNumber |
+| `IEnumerable<string>` | CustomerAccountNumbers |
+| `SearchLocation` | SearchLocation |

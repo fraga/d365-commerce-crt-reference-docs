@@ -1,6 +1,9 @@
 # GetEmployeePermissionsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetEmployeePermissionsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** employee
+**Inherits:** DataRequest
 
 ## Handled By
 
@@ -9,3 +12,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.DataAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `ColumnSet` | ColumnSet |
+| `string` | StaffId |

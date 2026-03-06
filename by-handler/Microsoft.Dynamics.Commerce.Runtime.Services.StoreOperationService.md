@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Channels.dll
 **Kind:** handler
 
-## Requests Handled (11)
+## Requests Handled (12)
 
 - [SaveNonSaleTenderServiceRequest](../by-request-type/SaveNonSaleTenderServiceRequest.md)
 - [SaveDropAndDeclareServiceRequest](../by-request-type/SaveDropAndDeclareServiceRequest.md)
@@ -15,6 +15,7 @@
 - [GetShiftTenderLinesServiceRequest](../by-request-type/GetShiftTenderLinesServiceRequest.md)
 - [AddInShiftTenderedAmountsServiceRequest](../by-request-type/AddInShiftTenderedAmountsServiceRequest.md)
 - [GetCashTenderTypeIdentifierServiceRequest](../by-request-type/GetCashTenderTypeIdentifierServiceRequest.md)
+- [GetTenderTypeIdentifierServiceRequest](../by-request-type/GetTenderTypeIdentifierServiceRequest.md)
 - [SaveShiftTenderLinesServiceRequest](../by-request-type/SaveShiftTenderLinesServiceRequest.md)
 
 ## Neighboring Triggers (1)
@@ -35,4 +36,5 @@
 | [GetShiftTenderLinesServiceRequest](../by-request-type/GetShiftTenderLinesServiceRequest.md) |  |
 | [AddInShiftTenderedAmountsServiceRequest](../by-request-type/AddInShiftTenderedAmountsServiceRequest.md) |  |
 | [GetCashTenderTypeIdentifierServiceRequest](../by-request-type/GetCashTenderTypeIdentifierServiceRequest.md) |  |
+| [GetTenderTypeIdentifierServiceRequest](../by-request-type/GetTenderTypeIdentifierServiceRequest.md) |  |
 | [SaveShiftTenderLinesServiceRequest](../by-request-type/SaveShiftTenderLinesServiceRequest.md) |  |

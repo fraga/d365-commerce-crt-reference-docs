@@ -1,6 +1,9 @@
 # CreateSalesOrderServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CreateSalesOrderServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -17,3 +20,9 @@
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Triggers.CreateSalesOrderServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll)
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Triggers.CreateSalesOrderServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll)
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateSalesOrderServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `SalesTransaction` | Transaction |

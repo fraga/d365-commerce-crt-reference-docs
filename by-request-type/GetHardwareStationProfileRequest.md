@@ -1,6 +1,9 @@
 # GetHardwareStationProfileRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.GetHardwareStationProfileRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** channel
+**Inherits:** Request
 
 ## Handled By
 

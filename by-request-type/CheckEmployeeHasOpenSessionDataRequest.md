@@ -1,6 +1,9 @@
 # CheckEmployeeHasOpenSessionDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.CheckEmployeeHasOpenSessionDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** employee
+**Inherits:** DataRequest
 
 ## Handled By
 

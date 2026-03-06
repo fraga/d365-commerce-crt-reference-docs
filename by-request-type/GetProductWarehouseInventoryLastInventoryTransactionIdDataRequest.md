@@ -1,6 +1,9 @@
 # GetProductWarehouseInventoryLastInventoryTransactionIdDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductWarehouseInventoryLastInventoryTransactionIdDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** inventory
+**Inherits:** DataRequest
 
 ## Handled By
 

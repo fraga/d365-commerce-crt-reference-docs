@@ -3,12 +3,10 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (4)
+## Requests Handled (2)
 
 - [GetItemsDataRequest](../by-request-type/GetItemsDataRequest.md)
 - [CheckIfProductOrVariantAreInCategoryDataRequest](../by-request-type/CheckIfProductOrVariantAreInCategoryDataRequest.md)
-- [GetProductVariantsDataRequest](../by-request-type/GetProductVariantsDataRequest.md)
-- [GetBarcodesByInventoryDimensionDataRequest](../by-request-type/GetBarcodesByInventoryDimensionDataRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -20,5 +18,3 @@ No triggers were found for this handler's request types.
 |-------------|----------|
 | [GetItemsDataRequest](../by-request-type/GetItemsDataRequest.md) |  |
 | [CheckIfProductOrVariantAreInCategoryDataRequest](../by-request-type/CheckIfProductOrVariantAreInCategoryDataRequest.md) |  |
-| [GetProductVariantsDataRequest](../by-request-type/GetProductVariantsDataRequest.md) |  |
-| [GetBarcodesByInventoryDimensionDataRequest](../by-request-type/GetBarcodesByInventoryDimensionDataRequest.md) |  |

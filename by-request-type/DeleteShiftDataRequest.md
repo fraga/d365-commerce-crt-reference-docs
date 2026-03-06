@@ -1,6 +1,9 @@
 # DeleteShiftDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.DeleteShiftDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** employee
+**Inherits:** ShiftDataRequest
 
 ## Handled By
 

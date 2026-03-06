@@ -1,6 +1,9 @@
 # PayCreditMemoRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.PayCreditMemoRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** other
+**Inherits:** CreditMemoRealtimeRequestBase
 
 ## Handled By
 

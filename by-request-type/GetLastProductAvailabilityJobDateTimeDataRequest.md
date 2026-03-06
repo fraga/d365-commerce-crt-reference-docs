@@ -1,6 +1,9 @@
 # GetLastProductAvailabilityJobDateTimeDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetLastProductAvailabilityJobDateTimeDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** product
+**Inherits:** DataRequest
 
 ## Handled By
 

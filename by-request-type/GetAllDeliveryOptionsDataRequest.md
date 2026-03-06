@@ -1,6 +1,9 @@
 # GetAllDeliveryOptionsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetAllDeliveryOptionsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** shipping
+**Inherits:** DataRequest
 
 ## Handled By
 

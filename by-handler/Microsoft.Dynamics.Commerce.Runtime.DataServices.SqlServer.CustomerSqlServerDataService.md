@@ -3,14 +3,13 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (27)
+## Requests Handled (26)
 
 - [CreateOrUpdateCustomerDataRequest](../by-request-type/CreateOrUpdateCustomerDataRequest.md)
 - [CreateOrUpdateAsyncCustomerAddressDataRequest](../by-request-type/CreateOrUpdateAsyncCustomerAddressDataRequest.md)
 - [GetSimpleCustomersDataRequest](../by-request-type/GetSimpleCustomersDataRequest.md)
 - [GetCustomerAddressesDataRequest](../by-request-type/GetCustomerAddressesDataRequest.md)
 - [GetCustomersDataRequest](../by-request-type/GetCustomersDataRequest.md)
-- [SearchCustomersDataRequest](../by-request-type/SearchCustomersDataRequest.md)
 - [InitiateLinkToExistingCustomerDataRequest](../by-request-type/InitiateLinkToExistingCustomerDataRequest.md)
 - [FinalizeLinkToExistingCustomerDataRequest](../by-request-type/FinalizeLinkToExistingCustomerDataRequest.md)
 - [UnlinkFromExistingCustomerDataRequest](../by-request-type/UnlinkFromExistingCustomerDataRequest.md)
@@ -48,7 +47,6 @@
 | [GetSimpleCustomersDataRequest](../by-request-type/GetSimpleCustomersDataRequest.md) |  |
 | [GetCustomerAddressesDataRequest](../by-request-type/GetCustomerAddressesDataRequest.md) |  |
 | [GetCustomersDataRequest](../by-request-type/GetCustomersDataRequest.md) | Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Russia.GetCustomersDataRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll) |
-| [SearchCustomersDataRequest](../by-request-type/SearchCustomersDataRequest.md) |  |
 | [InitiateLinkToExistingCustomerDataRequest](../by-request-type/InitiateLinkToExistingCustomerDataRequest.md) |  |
 | [FinalizeLinkToExistingCustomerDataRequest](../by-request-type/FinalizeLinkToExistingCustomerDataRequest.md) |  |
 | [UnlinkFromExistingCustomerDataRequest](../by-request-type/UnlinkFromExistingCustomerDataRequest.md) |  |

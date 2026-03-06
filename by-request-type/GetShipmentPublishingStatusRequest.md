@@ -1,6 +1,9 @@
 # GetShipmentPublishingStatusRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.GetShipmentPublishingStatusRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** other
+**Inherits:** Request
 
 ## Handled By
 

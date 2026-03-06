@@ -1,6 +1,9 @@
 # GetAllChannelsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetAllChannelsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** channel
+**Inherits:** DataRequest
 
 ## Handled By
 

@@ -7,12 +7,13 @@
 
 - [GetReceiptRequest](../by-request-type/GetReceiptRequest.md)
 
-## Neighboring Triggers (1)
+## Neighboring Triggers (2)
 
 - Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.GetReceiptRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)
+- Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.Receipts.GetReceiptRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)
 
 ## Triggers By Request
 
 | Request Type | Triggers |
 |-------------|----------|
-| [GetReceiptRequest](../by-request-type/GetReceiptRequest.md) | Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.GetReceiptRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll) |
+| [GetReceiptRequest](../by-request-type/GetReceiptRequest.md) | Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.GetReceiptRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll), Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.Receipts.GetReceiptRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll) |

@@ -1,6 +1,9 @@
 # AuthorizePaymentServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AuthorizePaymentServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** payment
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -16,3 +19,14 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ServicesAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `SalesTransaction` | Transaction |
+| `TenderLine` | TenderLine |
+| `bool` | AllowPartialAuthorization |
+| `bool` | SkipLimitValidation |
+| `bool` | IsCardTokenRequired |
+| `string` | ConnectorName |

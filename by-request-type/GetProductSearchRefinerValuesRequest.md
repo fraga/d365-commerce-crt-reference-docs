@@ -1,6 +1,9 @@
 # GetProductSearchRefinerValuesRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.GetProductSearchRefinerValuesRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** product
+**Inherits:** Request
 
 ## Handled By
 
@@ -9,3 +12,11 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `ProductSearchCriteria` | SearchCriteria |
+| `long` | RefinerId |
+| `ProductRefinerSource` | RefinerSource |

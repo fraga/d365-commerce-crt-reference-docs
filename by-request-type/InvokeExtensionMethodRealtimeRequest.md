@@ -1,6 +1,9 @@
 # InvokeExtensionMethodRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.InvokeExtensionMethodRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** other
+**Inherits:** InvokeMethodRealtimeRequest
 
 ## Handled By
 

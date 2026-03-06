@@ -1,6 +1,9 @@
 # SearchInventoryOutboundDocumentsServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SearchInventoryOutboundDocumentsServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** inventory
+**Inherits:** SearchInventoryDocumentsServiceRequest
 
 ## Handled By
 

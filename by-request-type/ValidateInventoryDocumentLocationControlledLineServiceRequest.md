@@ -1,6 +1,9 @@
 # ValidateInventoryDocumentLocationControlledLineServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateInventoryDocumentLocationControlledLineServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** inventory
+**Inherits:** ValidateInventoryDocumentCategoryServiceRequest
 
 ## Handled By
 

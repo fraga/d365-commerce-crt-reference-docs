@@ -16,7 +16,7 @@ Published documentation site for Commerce Runtime (CRT) request handlers, trigge
 
 ## What This Repo Publishes
 
-- SDK version captured in this build: `10.13.23228.2`
+- SDK version captured in this build: `9.54.25319.3`
 - Generated reference pages for request types, handlers, and domains
 - Machine-readable catalog in `catalog.json`
 

@@ -1,6 +1,9 @@
 # GetInventoryVisibilityParametersServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetInventoryVisibilityParametersServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** inventory
+**Inherits:** ServiceRequest
 
 ## Handled By
 

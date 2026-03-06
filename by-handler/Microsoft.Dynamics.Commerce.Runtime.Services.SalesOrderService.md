@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll
 **Kind:** handler
 
-## Requests Handled (22)
+## Requests Handled (26)
 
 - [AddRefundableTenderLinesToSalesOrderRequest](../by-request-type/AddRefundableTenderLinesToSalesOrderRequest.md)
 - [GetOrdersServiceRequest](../by-request-type/GetOrdersServiceRequest.md)
@@ -15,6 +15,7 @@
 - [GetSalesOrderDetailsBySalesIdServiceRequest](../by-request-type/GetSalesOrderDetailsBySalesIdServiceRequest.md)
 - [GetSalesOrderByChannelReferenceLookupCriteriaServiceRequest](../by-request-type/GetSalesOrderByChannelReferenceLookupCriteriaServiceRequest.md)
 - [GetSalesOrderDetailsByQuotationIdServiceRequest](../by-request-type/GetSalesOrderDetailsByQuotationIdServiceRequest.md)
+- [GetSalesOrdersByLookupCriteriaServiceRequest](../by-request-type/GetSalesOrdersByLookupCriteriaServiceRequest.md)
 - [SearchOrdersServiceRequest](../by-request-type/SearchOrdersServiceRequest.md)
 - [FillReceiptMaskServiceRequest](../by-request-type/FillReceiptMaskServiceRequest.md)
 - [GetNumberSequenceFromReceiptServiceRequest](../by-request-type/GetNumberSequenceFromReceiptServiceRequest.md)
@@ -27,6 +28,9 @@
 - [GetShipmentHistoryServiceRequest](../by-request-type/GetShipmentHistoryServiceRequest.md)
 - [GetBusinessPartnerOrderHistoryServiceRequest](../by-request-type/GetBusinessPartnerOrderHistoryServiceRequest.md)
 - [InvokeOrderAsynchronousOperationRequest](../by-request-type/InvokeOrderAsynchronousOperationRequest.md)
+- [UpdateConfirmedShipDateServiceRequest](../by-request-type/UpdateConfirmedShipDateServiceRequest.md)
+- [ConfirmSalesOrderServiceRequest](../by-request-type/ConfirmSalesOrderServiceRequest.md)
+- [CancelSalesOrderServiceRequest](../by-request-type/CancelSalesOrderServiceRequest.md)
 
 ## Neighboring Triggers (9)
 
@@ -54,6 +58,7 @@
 | [GetSalesOrderDetailsBySalesIdServiceRequest](../by-request-type/GetSalesOrderDetailsBySalesIdServiceRequest.md) |  |
 | [GetSalesOrderByChannelReferenceLookupCriteriaServiceRequest](../by-request-type/GetSalesOrderByChannelReferenceLookupCriteriaServiceRequest.md) |  |
 | [GetSalesOrderDetailsByQuotationIdServiceRequest](../by-request-type/GetSalesOrderDetailsByQuotationIdServiceRequest.md) |  |
+| [GetSalesOrdersByLookupCriteriaServiceRequest](../by-request-type/GetSalesOrdersByLookupCriteriaServiceRequest.md) |  |
 | [SearchOrdersServiceRequest](../by-request-type/SearchOrdersServiceRequest.md) |  |
 | [FillReceiptMaskServiceRequest](../by-request-type/FillReceiptMaskServiceRequest.md) |  |
 | [GetNumberSequenceFromReceiptServiceRequest](../by-request-type/GetNumberSequenceFromReceiptServiceRequest.md) |  |
@@ -66,3 +71,6 @@
 | [GetShipmentHistoryServiceRequest](../by-request-type/GetShipmentHistoryServiceRequest.md) |  |
 | [GetBusinessPartnerOrderHistoryServiceRequest](../by-request-type/GetBusinessPartnerOrderHistoryServiceRequest.md) |  |
 | [InvokeOrderAsynchronousOperationRequest](../by-request-type/InvokeOrderAsynchronousOperationRequest.md) |  |
+| [UpdateConfirmedShipDateServiceRequest](../by-request-type/UpdateConfirmedShipDateServiceRequest.md) |  |
+| [ConfirmSalesOrderServiceRequest](../by-request-type/ConfirmSalesOrderServiceRequest.md) |  |
+| [CancelSalesOrderServiceRequest](../by-request-type/CancelSalesOrderServiceRequest.md) |  |

@@ -1,6 +1,9 @@
 # GetInvoiceRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.GetInvoiceRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** other
+**Inherits:** RealtimeRequest
 
 ## Handled By
 
@@ -10,3 +13,11 @@
 
 - Microsoft.Dynamics.Commerce.Runtime.GenericTaxEngine.CustomerOrderServiceTriggers (Microsoft.Dynamics.Commerce.Runtime.GenericTaxEngine.dll)
 - Microsoft.Dynamics.Commerce.Runtime.Localization.Services.India.Triggers.CustomerOrderServiceTriggers (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `string` | SalesId |
+| `string` | InvoiceId |
+| `string` | CustomerAccountNumber |

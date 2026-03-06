@@ -1,6 +1,9 @@
 # GetReceiptHeaderTaxInformationDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Localization.Data.Services.Messages.India.GetReceiptHeaderTaxInformationDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Localization.Data.Services.Messages.dll
 **Domain:** order
+**Inherits:** DataRequest
 
 ## Handled By
 

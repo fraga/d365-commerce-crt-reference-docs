@@ -1,6 +1,9 @@
 # GetCurrentBusinessPartnerDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCurrentBusinessPartnerDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** customer
+**Inherits:** DataRequest
 
 ## Handled By
 

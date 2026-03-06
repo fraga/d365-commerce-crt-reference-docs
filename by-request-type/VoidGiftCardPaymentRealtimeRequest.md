@@ -1,6 +1,9 @@
 # VoidGiftCardPaymentRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.VoidGiftCardPaymentRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** payment
+**Inherits:** GiftCardRealtimeRequestBase
 
 ## Handled By
 

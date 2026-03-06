@@ -1,6 +1,9 @@
 # GetChargeConfigurationsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetChargeConfigurationsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** pricing
+**Inherits:** DataRequest
 
 ## Handled By
 

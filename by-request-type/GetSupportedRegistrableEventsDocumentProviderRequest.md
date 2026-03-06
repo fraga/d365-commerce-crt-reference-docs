@@ -1,6 +1,9 @@
 # GetSupportedRegistrableEventsDocumentProviderRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.FiscalIntegration.DocumentProvider.Messages.GetSupportedRegistrableEventsDocumentProviderRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.FIF.DocumentProvider.Messages.dll
 **Domain:** other
+**Inherits:** DocumentProviderRequest
 
 ## Handled By
 

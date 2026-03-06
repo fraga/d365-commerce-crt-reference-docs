@@ -1,6 +1,9 @@
 # GetElectronicFiscalDocumentPropertiesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Services.Messages.GetElectronicFiscalDocumentPropertiesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll
 **Domain:** tax
+**Inherits:** ServiceRequest
 
 ## Handled By
 

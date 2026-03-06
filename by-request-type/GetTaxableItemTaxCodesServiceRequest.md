@@ -1,6 +1,9 @@
 # GetTaxableItemTaxCodesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetTaxableItemTaxCodesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** product
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Services.Localization.TaxServiceIndia.GetTaxableItemTaxCodesPostProcessingTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxServiceIndia.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `TaxableItem` | TaxableItem |
+| `ReadOnlyCollection<TaxCodeInterval>` | TaxCodeIntervals |

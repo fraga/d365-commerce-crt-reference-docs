@@ -1,6 +1,9 @@
 # GetCustomersTitlesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCustomersTitlesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** customer
+**Inherits:** DataRequest
 
 ## Handled By
 

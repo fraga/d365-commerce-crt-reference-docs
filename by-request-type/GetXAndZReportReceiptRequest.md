@@ -1,6 +1,9 @@
 # GetXAndZReportReceiptRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.GetXAndZReportReceiptRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** order
+**Inherits:** Request
 
 ## Handled By
 
@@ -11,3 +14,13 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowsAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `string` | ShiftTerminalId |
+| `long` | ShiftId |
+| `ReceiptType` | ReceiptType |
+| `string` | TransactionId |
+| `string` | HardwareProfileId |

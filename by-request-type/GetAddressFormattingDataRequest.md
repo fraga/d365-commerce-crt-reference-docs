@@ -1,6 +1,9 @@
 # GetAddressFormattingDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetAddressFormattingDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** shipping
+**Inherits:** GetAddressInfoDataRequest
 
 ## Handled By
 

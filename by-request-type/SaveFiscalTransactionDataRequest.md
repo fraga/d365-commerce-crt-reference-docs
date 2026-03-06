@@ -1,6 +1,9 @@
 # SaveFiscalTransactionDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SaveFiscalTransactionDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** tax
+**Inherits:** Request
 
 ## Handled By
 
@@ -10,3 +13,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.SaveFiscalTransactionDataRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `FiscalTransaction` | FiscalTransaction |
+| `FiscalIntegrationSequentialSignatureData` | SequentialSignatureData |

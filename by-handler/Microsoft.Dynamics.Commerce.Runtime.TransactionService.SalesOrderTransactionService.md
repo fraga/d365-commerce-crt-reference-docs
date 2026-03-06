@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.TransactionService.dll
 **Kind:** handler
 
-## Requests Handled (11)
+## Requests Handled (13)
 
 - [GetOrdersRealtimeRequest](../by-request-type/GetOrdersRealtimeRequest.md)
 - [MarkReturnedItemsRealtimeRequest](../by-request-type/MarkReturnedItemsRealtimeRequest.md)
@@ -14,8 +14,10 @@
 - [GetSalesOrderDetailsByChannelReferenceIdRealtimeRequest](../by-request-type/GetSalesOrderDetailsByChannelReferenceIdRealtimeRequest.md)
 - [GetSalesOrderDetailsBySalesIdRealtimeRequest](../by-request-type/GetSalesOrderDetailsBySalesIdRealtimeRequest.md)
 - [GetSalesOrderDetailsByQuotationIdRealtimeRequest](../by-request-type/GetSalesOrderDetailsByQuotationIdRealtimeRequest.md)
+- [GetSalesOrdersByLookupCriteriaRealtimeRequest](../by-request-type/GetSalesOrdersByLookupCriteriaRealtimeRequest.md)
 - [SearchOrdersRealtimeRequest](../by-request-type/SearchOrdersRealtimeRequest.md)
 - [GetOrderOriginatorsRealtimeRequest](../by-request-type/GetOrderOriginatorsRealtimeRequest.md)
+- [ConfirmSalesOrderRealtimeRequest](../by-request-type/ConfirmSalesOrderRealtimeRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -34,5 +36,7 @@ No triggers were found for this handler's request types.
 | [GetSalesOrderDetailsByChannelReferenceIdRealtimeRequest](../by-request-type/GetSalesOrderDetailsByChannelReferenceIdRealtimeRequest.md) |  |
 | [GetSalesOrderDetailsBySalesIdRealtimeRequest](../by-request-type/GetSalesOrderDetailsBySalesIdRealtimeRequest.md) |  |
 | [GetSalesOrderDetailsByQuotationIdRealtimeRequest](../by-request-type/GetSalesOrderDetailsByQuotationIdRealtimeRequest.md) |  |
+| [GetSalesOrdersByLookupCriteriaRealtimeRequest](../by-request-type/GetSalesOrdersByLookupCriteriaRealtimeRequest.md) |  |
 | [SearchOrdersRealtimeRequest](../by-request-type/SearchOrdersRealtimeRequest.md) |  |
 | [GetOrderOriginatorsRealtimeRequest](../by-request-type/GetOrderOriginatorsRealtimeRequest.md) |  |
+| [ConfirmSalesOrderRealtimeRequest](../by-request-type/ConfirmSalesOrderRealtimeRequest.md) |  |

@@ -1,6 +1,9 @@
 # GetSupportedLanguagesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetSupportedLanguagesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** other
+**Inherits:** GetAddressInfoDataRequest
 
 ## Handled By
 

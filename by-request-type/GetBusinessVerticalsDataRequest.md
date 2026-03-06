@@ -1,6 +1,9 @@
 # GetBusinessVerticalsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Localization.Data.Services.Messages.India.GetBusinessVerticalsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Localization.Data.Services.Messages.dll
 **Domain:** other
+**Inherits:** Request
 
 ## Handled By
 

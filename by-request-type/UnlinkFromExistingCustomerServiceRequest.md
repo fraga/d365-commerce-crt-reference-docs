@@ -1,6 +1,9 @@
 # UnlinkFromExistingCustomerServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UnlinkFromExistingCustomerServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** customer
+**Inherits:** ServiceRequest
 
 ## Handled By
 

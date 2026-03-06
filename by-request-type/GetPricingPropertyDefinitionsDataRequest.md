@@ -1,6 +1,9 @@
 # GetPricingPropertyDefinitionsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetPricingPropertyDefinitionsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** pricing
+**Inherits:** DataRequest
 
 ## Handled By
 

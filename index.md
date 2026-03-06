@@ -1,6 +1,6 @@
 # CRT Extension Point Guide
 
-SDK Version: `10.13.23228.2`
+SDK Version: `9.54.25319.3`
 Generated from: `sdk`
 
 ## Start Here
@@ -21,7 +21,7 @@ Generated from: `sdk`
 
 | Item | Count |
 |------|-------|
-| Assemblies | 140 |
-| Handlers | 577 |
-| Triggers | 77 |
-| Request Types | 1561 |
+| Assemblies | 146 |
+| Handlers | 622 |
+| Triggers | 80 |
+| Request Types | 1651 |

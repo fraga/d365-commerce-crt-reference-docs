@@ -1,6 +1,9 @@
 # GetProductSearchSuggestionsServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductSearchSuggestionsServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** product
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -10,3 +13,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.PrependAzureCmsMediaBaseUrlTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `SearchSuggestionCriteria` | SearchSuggestionCriteria |

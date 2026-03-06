@@ -1,6 +1,9 @@
 # GetLastClosedShiftDetailsNorwayDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Messages.Norway.GetLastClosedShiftDetailsNorwayDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Messages.dll
 **Domain:** employee
+**Inherits:** DataRequest
 
 ## Handled By
 

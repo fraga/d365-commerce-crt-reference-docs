@@ -1,6 +1,9 @@
 # GetProductSearchResultsServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductSearchResultsServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** product
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -10,3 +13,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.PrependAzureCmsMediaBaseUrlTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `ProductSearchCriteria` | SearchCriteria |
+| `bool` | SearchForBarcodeItem |

@@ -1,6 +1,9 @@
 # UpdateShiftStagingTableDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.UpdateShiftStagingTableDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** employee
+**Inherits:** ShiftDataRequest
 
 ## Handled By
 

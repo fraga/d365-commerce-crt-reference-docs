@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (14)
+## Requests Handled (15)
 
 - [CreateBusinessPartnerProspectDataRequest](../by-request-type/CreateBusinessPartnerProspectDataRequest.md)
 - [CreateBusinessPartnerUserDataRequest](../by-request-type/CreateBusinessPartnerUserDataRequest.md)
@@ -19,6 +19,7 @@
 - [GetBusinessPartnerOperationsDataRequest](../by-request-type/GetBusinessPartnerOperationsDataRequest.md)
 - [GetBusinessPartnerCatalogsByCustomerAccountDataRequest](../by-request-type/GetBusinessPartnerCatalogsByCustomerAccountDataRequest.md)
 - [PromoteBusinessPartnerDataRequest](../by-request-type/PromoteBusinessPartnerDataRequest.md)
+- [GetChannelIdsByBusinessPartnerIdDataRequest](../by-request-type/GetChannelIdsByBusinessPartnerIdDataRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -42,3 +43,4 @@ No triggers were found for this handler's request types.
 | [GetBusinessPartnerOperationsDataRequest](../by-request-type/GetBusinessPartnerOperationsDataRequest.md) |  |
 | [GetBusinessPartnerCatalogsByCustomerAccountDataRequest](../by-request-type/GetBusinessPartnerCatalogsByCustomerAccountDataRequest.md) |  |
 | [PromoteBusinessPartnerDataRequest](../by-request-type/PromoteBusinessPartnerDataRequest.md) |  |
+| [GetChannelIdsByBusinessPartnerIdDataRequest](../by-request-type/GetChannelIdsByBusinessPartnerIdDataRequest.md) |  |

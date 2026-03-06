@@ -1,6 +1,9 @@
 # GetTaxBasesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetTaxBasesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** tax
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -10,3 +13,17 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Services.Localization.TaxServiceBrazil.GetTaxBasesServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxServiceBrazil.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `TaxCode` | TaxCode |
+| `ReadOnlyCollection<TaxCode>` | TaxCodes |
+| `TaxableItem` | TaxableEntity |
+| `ReadOnlyCollection<SalesLine>` | ActiveSalesLines |
+| `decimal` | IntervalBasis |
+| `bool` | CalculateBasePrice |
+| `bool` | IsTaxInStoreCurrency |
+| `bool` | IsTaxIncludedInPrice |
+| `bool` | IsTaxExemptedForPriceInclusive |

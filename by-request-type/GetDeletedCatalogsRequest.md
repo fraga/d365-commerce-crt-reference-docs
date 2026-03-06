@@ -1,6 +1,9 @@
 # GetDeletedCatalogsRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeletedCatalogsRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** product
+**Inherits:** Request
 
 ## Handled By
 

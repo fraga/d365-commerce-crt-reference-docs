@@ -3,18 +3,20 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Receipts.dll
 **Kind:** handler
 
-## Requests Handled (4)
+## Requests Handled (5)
 
 - [GetReceiptServiceRequest](../by-request-type/GetReceiptServiceRequest.md)
 - [GetEmailReceiptServiceRequest](../by-request-type/GetEmailReceiptServiceRequest.md)
 - [PopulateTaxSummaryIndiaServiceRequest](../by-request-type/PopulateTaxSummaryIndiaServiceRequest.md)
 - [GetReprintNumberServiceRequest](../by-request-type/GetReprintNumberServiceRequest.md)
+- [GetReceiptFieldInfoFromTransactionServiceRequest](../by-request-type/GetReceiptFieldInfoFromTransactionServiceRequest.md)
 
-## Neighboring Triggers (3)
+## Neighboring Triggers (4)
 
 - Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.XZReports.GetReceiptServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)
 - Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Austria.XZReports.XZReportsAustriaService (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)
 - Microsoft.Dynamics.Commerce.Runtime.XZReportsFrance.GetReceiptServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.XZReportsFrance.dll)
+- Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.Receipts.GetReceiptFieldInfoFromTransactionRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)
 
 ## Triggers By Request
 
@@ -24,3 +26,4 @@
 | [GetEmailReceiptServiceRequest](../by-request-type/GetEmailReceiptServiceRequest.md) |  |
 | [PopulateTaxSummaryIndiaServiceRequest](../by-request-type/PopulateTaxSummaryIndiaServiceRequest.md) |  |
 | [GetReprintNumberServiceRequest](../by-request-type/GetReprintNumberServiceRequest.md) |  |
+| [GetReceiptFieldInfoFromTransactionServiceRequest](../by-request-type/GetReceiptFieldInfoFromTransactionServiceRequest.md) | Microsoft.Dynamics.Commerce.Runtime.Localization.Services.France.Receipts.GetReceiptFieldInfoFromTransactionRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll) |

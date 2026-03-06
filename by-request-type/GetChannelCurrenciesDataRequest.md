@@ -1,6 +1,9 @@
 # GetChannelCurrenciesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetChannelCurrenciesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** channel
+**Inherits:** DataRequest
 
 ## Handled By
 

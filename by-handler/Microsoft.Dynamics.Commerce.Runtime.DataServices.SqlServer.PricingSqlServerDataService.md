@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (11)
+## Requests Handled (17)
 
 - [GetPriceAdjustmentsDataRequest](../by-request-type/GetPriceAdjustmentsDataRequest.md)
 - [GetRetailChannelDiscountsDataRequest](../by-request-type/GetRetailChannelDiscountsDataRequest.md)
@@ -16,6 +16,12 @@
 - [ReadPriceTradeAgreementsDataRequest](../by-request-type/ReadPriceTradeAgreementsDataRequest.md)
 - [ReadRetailDiscountsDataRequest](../by-request-type/ReadRetailDiscountsDataRequest.md)
 - [ReadRetailShippingDiscountsDataRequest](../by-request-type/ReadRetailShippingDiscountsDataRequest.md)
+- [GetDiscountsByProductsDataRequest](../by-request-type/GetDiscountsByProductsDataRequest.md)
+- [GetProductDiscountIdsByPriceGroupsDataRequest](../by-request-type/GetProductDiscountIdsByPriceGroupsDataRequest.md)
+- [GetProductDiscountDetailDataRequest](../by-request-type/GetProductDiscountDetailDataRequest.md)
+- [GetProductsWithDiscountByProductDiscountIdsDataRequest](../by-request-type/GetProductsWithDiscountByProductDiscountIdsDataRequest.md)
+- [GetSalesAgreementTransactionsDataRequest](../by-request-type/GetSalesAgreementTransactionsDataRequest.md)
+- [GetRetailShippingDiscountsDataRequest](../by-request-type/GetRetailShippingDiscountsDataRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -36,3 +42,9 @@ No triggers were found for this handler's request types.
 | [ReadPriceTradeAgreementsDataRequest](../by-request-type/ReadPriceTradeAgreementsDataRequest.md) |  |
 | [ReadRetailDiscountsDataRequest](../by-request-type/ReadRetailDiscountsDataRequest.md) |  |
 | [ReadRetailShippingDiscountsDataRequest](../by-request-type/ReadRetailShippingDiscountsDataRequest.md) |  |
+| [GetDiscountsByProductsDataRequest](../by-request-type/GetDiscountsByProductsDataRequest.md) |  |
+| [GetProductDiscountIdsByPriceGroupsDataRequest](../by-request-type/GetProductDiscountIdsByPriceGroupsDataRequest.md) |  |
+| [GetProductDiscountDetailDataRequest](../by-request-type/GetProductDiscountDetailDataRequest.md) |  |
+| [GetProductsWithDiscountByProductDiscountIdsDataRequest](../by-request-type/GetProductsWithDiscountByProductDiscountIdsDataRequest.md) |  |
+| [GetSalesAgreementTransactionsDataRequest](../by-request-type/GetSalesAgreementTransactionsDataRequest.md) |  |
+| [GetRetailShippingDiscountsDataRequest](../by-request-type/GetRetailShippingDiscountsDataRequest.md) |  |

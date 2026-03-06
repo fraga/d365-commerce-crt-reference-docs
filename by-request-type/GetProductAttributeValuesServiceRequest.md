@@ -1,6 +1,9 @@
 # GetProductAttributeValuesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductAttributeValuesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** product
+**Inherits:** Request
 
 ## Handled By
 
@@ -9,3 +12,11 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `long` | CatalogId |
+| `long` | ChannelId |
+| `long` | ProductId |

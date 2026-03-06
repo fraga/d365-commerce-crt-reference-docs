@@ -1,6 +1,9 @@
 # CalculateTaxServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateTaxServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** tax
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -11,3 +14,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ServicesAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `SalesTransaction` | Transaction |

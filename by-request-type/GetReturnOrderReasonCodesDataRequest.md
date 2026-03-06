@@ -1,6 +1,9 @@
 # GetReturnOrderReasonCodesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetReturnOrderReasonCodesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** order
+**Inherits:** DataRequest
 
 ## Handled By
 

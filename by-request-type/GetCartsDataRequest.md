@@ -1,6 +1,9 @@
 # GetCartsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCartsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** cart
+**Inherits:** DataRequest
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.DataAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `CartSearchCriteria` | SearchCriteria |

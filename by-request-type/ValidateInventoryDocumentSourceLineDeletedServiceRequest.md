@@ -1,6 +1,9 @@
 # ValidateInventoryDocumentSourceLineDeletedServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateInventoryDocumentSourceLineDeletedServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** inventory
+**Inherits:** ValidateInventoryDocumentCategoryServiceRequest
 
 ## Handled By
 

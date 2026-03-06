@@ -1,6 +1,9 @@
 # SyncStockCountJournalsFromAxServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SyncStockCountJournalsFromAxServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** inventory
+**Inherits:** ServiceRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # GetDimensionValuesWithEstimatedAvailabilitiesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetDimensionValuesWithEstimatedAvailabilitiesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateBusinessPartnerCatalogTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `long` | MasterProductId |
+| `ProductDimensionAvailabilitySearchCriteria` | SearchCriteria |

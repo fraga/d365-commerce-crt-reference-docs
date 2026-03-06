@@ -1,6 +1,9 @@
 # CalculatePaymentAmountServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculatePaymentAmountServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** payment
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -11,3 +14,9 @@
 - [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerPaymentService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CustomerPaymentService.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Services.GiftCardService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.GiftCardService.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Services.LoyaltyCardService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.LoyaltyCardService.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `TenderLine` | TenderLine |

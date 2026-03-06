@@ -1,6 +1,9 @@
 # GetCurrentTerminalIdDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCurrentTerminalIdDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** channel
+**Inherits:** DataRequest
 
 ## Handled By
 

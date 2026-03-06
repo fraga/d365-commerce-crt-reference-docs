@@ -1,6 +1,9 @@
 # GetChannelMediaTemplateDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.GetChannelMediaTemplateDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.dll
 **Domain:** product
+**Inherits:** DataRequest
 
 ## Handled By
 

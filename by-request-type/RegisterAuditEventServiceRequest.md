@@ -1,6 +1,9 @@
 # RegisterAuditEventServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.RegisterAuditEventServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 - [Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventAustria.RegisterAuditEventServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventAustria.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventAustria.RegisterAuditEventServiceRequestHandler.md)
 - [Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventFrance.RegisterAuditEventServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventFrance.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventFrance.RegisterAuditEventServiceRequestHandler.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Services.AuditEventService (Microsoft.Dynamics.Commerce.Runtime.Services.Security.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.AuditEventService.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `AuditEvent` | AuditEvent |

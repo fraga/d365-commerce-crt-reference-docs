@@ -1,6 +1,9 @@
 # SearchJournalTransactionsServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SearchJournalTransactionsServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.ServicesAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `TransactionSearchCriteria` | Criteria |

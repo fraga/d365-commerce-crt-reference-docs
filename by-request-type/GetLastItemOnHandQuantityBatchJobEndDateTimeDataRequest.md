@@ -1,6 +1,9 @@
 # GetLastItemOnHandQuantityBatchJobEndDateTimeDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetLastItemOnHandQuantityBatchJobEndDateTimeDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** product
+**Inherits:** DataRequest
 
 ## Handled By
 

@@ -3,16 +3,10 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (1)
+## Requests Handled
 
-- [SaveGiftCardChannelTransactionDataRequest](../by-request-type/SaveGiftCardChannelTransactionDataRequest.md)
+No explicit `SupportedRequestTypes` were extracted for this handler.
 
 ## Neighboring Triggers (0)
 
 No triggers were found for this handler's request types.
-
-## Triggers By Request
-
-| Request Type | Triggers |
-|-------------|----------|
-| [SaveGiftCardChannelTransactionDataRequest](../by-request-type/SaveGiftCardChannelTransactionDataRequest.md) |  |

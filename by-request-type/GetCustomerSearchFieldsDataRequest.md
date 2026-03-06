@@ -1,6 +1,9 @@
 # GetCustomerSearchFieldsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCustomerSearchFieldsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** customer
+**Inherits:** DataRequest
 
 ## Handled By
 

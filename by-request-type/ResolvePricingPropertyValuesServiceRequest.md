@@ -1,6 +1,9 @@
 # ResolvePricingPropertyValuesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ResolvePricingPropertyValuesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** pricing
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -14,3 +17,10 @@
 - [Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesLineAttributeProvider (Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesLineAttributeProvider.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesLineProvider (Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesLineProvider.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesOrderAttributeProvider (Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesOrderAttributeProvider.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `IEnumerable<PricingPropertyDefinition>` | PricingProperties |
+| `SalesTransaction` | Transaction |

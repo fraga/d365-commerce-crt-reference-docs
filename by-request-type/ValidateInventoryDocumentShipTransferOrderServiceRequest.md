@@ -1,6 +1,9 @@
 # ValidateInventoryDocumentShipTransferOrderServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateInventoryDocumentShipTransferOrderServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** ValidateInventoryDocumentCategoryServiceRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # UpsertShiftsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.UpsertShiftsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** employee
+**Inherits:** ShiftDataRequest
 
 ## Handled By
 

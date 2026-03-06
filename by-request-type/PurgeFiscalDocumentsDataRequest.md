@@ -1,6 +1,9 @@
 # PurgeFiscalDocumentsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.DataServices.Messages.PurgeFiscalDocumentsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll
 **Domain:** tax
+**Inherits:** PurgeSalesTransactionsDataRequest
 
 ## Handled By
 

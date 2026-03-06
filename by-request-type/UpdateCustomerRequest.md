@@ -1,6 +1,9 @@
 # UpdateCustomerRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.UpdateCustomerRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** customer
+**Inherits:** Request
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowsAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `Customer` | UpdatedCustomer |

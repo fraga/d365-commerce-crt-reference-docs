@@ -1,7 +1,16 @@
 # GetStoreLocationsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.GetStoreLocationsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.dll
 **Domain:** channel
+**Inherits:** DataRequest
 
 ## Handled By
 
-- ChannelDataService
+- [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ChannelDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ChannelDataService.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `ICollection<long>` | ChannelIds |

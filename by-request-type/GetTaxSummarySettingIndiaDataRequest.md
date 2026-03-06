@@ -1,6 +1,9 @@
 # GetTaxSummarySettingIndiaDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetTaxSummarySettingIndiaDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** tax
+**Inherits:** DataRequest
 
 ## Handled By
 

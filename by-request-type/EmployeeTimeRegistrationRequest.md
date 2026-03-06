@@ -1,6 +1,9 @@
 # EmployeeTimeRegistrationRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.EmployeeTimeRegistrationRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** employee
+**Inherits:** Request
 
 ## Handled By
 
@@ -9,3 +12,13 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowsAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `EmployeeActivityType` | EmployeeActivityType |
+| `EmployeeActivitySearchCriteria` | EmployeeActivitySearchCriteria |
+| `bool` | IsLatestActivity |
+| `bool` | IsSelectStore |
+| `bool` | IsManagerLogbook |

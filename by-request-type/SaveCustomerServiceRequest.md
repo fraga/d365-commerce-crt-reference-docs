@@ -1,6 +1,9 @@
 # SaveCustomerServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCustomerServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** customer
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -16,3 +19,10 @@
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Triggers.SaveCustomerServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.dll)
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Triggers.SaveCustomerServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll)
 - Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Triggers.SaveCustomerServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `Customer` | CustomerToSave |
+| `bool` | IsExistingCustomer |

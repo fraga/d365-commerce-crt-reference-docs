@@ -3,10 +3,11 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll
 **Kind:** handler
 
-## Requests Handled (2)
+## Requests Handled (3)
 
 - [ResolveHierarchicalPricingAttributeServiceRequest](../by-request-type/ResolveHierarchicalPricingAttributeServiceRequest.md)
 - [GetMatchingChargeConfigurationsByPricingAttributesServiceRequest](../by-request-type/GetMatchingChargeConfigurationsByPricingAttributesServiceRequest.md)
+- [GetSalesTransactionHashesForChargeCalculationRequest](../by-request-type/GetSalesTransactionHashesForChargeCalculationRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -18,3 +19,4 @@ No triggers were found for this handler's request types.
 |-------------|----------|
 | [ResolveHierarchicalPricingAttributeServiceRequest](../by-request-type/ResolveHierarchicalPricingAttributeServiceRequest.md) |  |
 | [GetMatchingChargeConfigurationsByPricingAttributesServiceRequest](../by-request-type/GetMatchingChargeConfigurationsByPricingAttributesServiceRequest.md) |  |
+| [GetSalesTransactionHashesForChargeCalculationRequest](../by-request-type/GetSalesTransactionHashesForChargeCalculationRequest.md) |  |

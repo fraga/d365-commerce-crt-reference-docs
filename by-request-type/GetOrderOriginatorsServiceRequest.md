@@ -1,6 +1,9 @@
 # GetOrderOriginatorsServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetOrderOriginatorsServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.DataAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `OrderOriginatorSearchCriteria` | OrderOriginatorSearchCriteria |

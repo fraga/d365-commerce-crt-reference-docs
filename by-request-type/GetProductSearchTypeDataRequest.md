@@ -1,6 +1,9 @@
 # GetProductSearchTypeDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductSearchTypeDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** product
+**Inherits:** Request
 
 ## Handled By
 

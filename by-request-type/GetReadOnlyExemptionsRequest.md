@@ -1,6 +1,9 @@
 # GetReadOnlyExemptionsRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Framework.GetReadOnlyExemptionsRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Entities.dll
 **Domain:** other
+**Inherits:** Request
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # ReadRetailDiscountsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReadRetailDiscountsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** pricing
+**Inherits:** GetPriceAndDiscountDataRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # GetDeviceConfigurationRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeviceConfigurationRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
 **Domain:** channel
+**Inherits:** Request
 
 ## Handled By
 

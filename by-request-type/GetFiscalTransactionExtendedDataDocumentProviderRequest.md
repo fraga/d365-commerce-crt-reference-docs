@@ -1,6 +1,9 @@
 # GetFiscalTransactionExtendedDataDocumentProviderRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.FiscalIntegration.DocumentProvider.Messages.GetFiscalTransactionExtendedDataDocumentProviderRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.FIF.DocumentProvider.Messages.dll
 **Domain:** tax
+**Inherits:** DocumentProviderRequest
 
 ## Handled By
 
@@ -8,3 +11,9 @@
 - [Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.FiscalIntegration.DocumentProviderEInvoicingFiscalDocument (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.FiscalIntegration.DocumentProviderEInvoicingFiscalDocument.md)
 - [Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.FiscalIntegration.DocumentProviderStatusRequestFiscalDocument (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.FiscalIntegration.DocumentProviderStatusRequestFiscalDocument.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Localization.Services.SaudiArabia.Services.DocumentProviderGazt (Microsoft.Dynamics.Commerce.Runtime.Localization.Services.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Localization.Services.SaudiArabia.Services.DocumentProviderGazt.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `FiscalIntegrationRegistrationResult` | FiscalRegistrationResult |

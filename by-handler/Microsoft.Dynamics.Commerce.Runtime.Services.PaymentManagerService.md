@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll
 **Kind:** handler
 
-## Requests Handled (10)
+## Requests Handled (13)
 
 - [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md)
 - [CapturePaymentServiceRequest](../by-request-type/CapturePaymentServiceRequest.md)
@@ -15,6 +15,9 @@
 - [VoidPaymentServiceRequest](../by-request-type/VoidPaymentServiceRequest.md)
 - [ValidatePendingOrderTenderLinesServiceRequest](../by-request-type/ValidatePendingOrderTenderLinesServiceRequest.md)
 - [ResolveCardTypesByPaymentTypeServiceRequest](../by-request-type/ResolveCardTypesByPaymentTypeServiceRequest.md)
+- [GetPaymentConfigurationServiceRequest](../by-request-type/GetPaymentConfigurationServiceRequest.md)
+- [PostPaymentNotificationServiceRequest](../by-request-type/PostPaymentNotificationServiceRequest.md)
+- [GetPaymentNotificationsServiceRequest](../by-request-type/GetPaymentNotificationsServiceRequest.md)
 
 ## Neighboring Triggers (1)
 
@@ -34,3 +37,6 @@
 | [VoidPaymentServiceRequest](../by-request-type/VoidPaymentServiceRequest.md) |  |
 | [ValidatePendingOrderTenderLinesServiceRequest](../by-request-type/ValidatePendingOrderTenderLinesServiceRequest.md) |  |
 | [ResolveCardTypesByPaymentTypeServiceRequest](../by-request-type/ResolveCardTypesByPaymentTypeServiceRequest.md) |  |
+| [GetPaymentConfigurationServiceRequest](../by-request-type/GetPaymentConfigurationServiceRequest.md) |  |
+| [PostPaymentNotificationServiceRequest](../by-request-type/PostPaymentNotificationServiceRequest.md) |  |
+| [GetPaymentNotificationsServiceRequest](../by-request-type/GetPaymentNotificationsServiceRequest.md) |  |

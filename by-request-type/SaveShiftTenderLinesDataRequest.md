@@ -1,6 +1,9 @@
 # SaveShiftTenderLinesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SaveShiftTenderLinesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** payment
+**Inherits:** ShiftDataRequest
 
 ## Handled By
 

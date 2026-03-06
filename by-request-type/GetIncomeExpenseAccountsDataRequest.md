@@ -1,6 +1,9 @@
 # GetIncomeExpenseAccountsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetIncomeExpenseAccountsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** other
+**Inherits:** DataRequest
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.DataAuthorizationTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `IncomeExpenseAccountType` | IncomeExpenseType |

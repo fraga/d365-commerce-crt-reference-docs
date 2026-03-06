@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (12)
+## Requests Handled (11)
 
 - [GetCountryRegionsForShippingDataRequest](../by-request-type/GetCountryRegionsForShippingDataRequest.md)
 - [GetStateProvincesDataRequest](../by-request-type/GetStateProvincesDataRequest.md)
@@ -15,7 +15,6 @@
 - [GetFromZipPostalCodeDataRequest](../by-request-type/GetFromZipPostalCodeDataRequest.md)
 - [ValidateAddressDataRequest](../by-request-type/ValidateAddressDataRequest.md)
 - [GetAddressFormattingDataRequest](../by-request-type/GetAddressFormattingDataRequest.md)
-- [GetAddressPurposesDataRequest](../by-request-type/GetAddressPurposesDataRequest.md)
 - [GetPostalAddressesByRecIdDataRequest](../by-request-type/GetPostalAddressesByRecIdDataRequest.md)
 
 ## Neighboring Triggers (0)
@@ -36,5 +35,4 @@ No triggers were found for this handler's request types.
 | [GetFromZipPostalCodeDataRequest](../by-request-type/GetFromZipPostalCodeDataRequest.md) |  |
 | [ValidateAddressDataRequest](../by-request-type/ValidateAddressDataRequest.md) |  |
 | [GetAddressFormattingDataRequest](../by-request-type/GetAddressFormattingDataRequest.md) |  |
-| [GetAddressPurposesDataRequest](../by-request-type/GetAddressPurposesDataRequest.md) |  |
 | [GetPostalAddressesByRecIdDataRequest](../by-request-type/GetPostalAddressesByRecIdDataRequest.md) |  |

@@ -1,6 +1,9 @@
 # HasAnyExternalIdentityDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.HasAnyExternalIdentityDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** other
+**Inherits:** DataRequest
 
 ## Handled By
 

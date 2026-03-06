@@ -1,6 +1,9 @@
 # CheckAccessHasShiftServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CheckAccessHasShiftServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** employee
+**Inherits:** CheckAccessServiceRequest
 
 ## Handled By
 

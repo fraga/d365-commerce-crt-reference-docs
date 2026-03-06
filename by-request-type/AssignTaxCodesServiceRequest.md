@@ -1,6 +1,9 @@
 # AssignTaxCodesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AssignTaxCodesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** tax
+**Inherits:** ServiceRequest
 
 ## Handled By
 
@@ -9,3 +12,9 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Services.Localization.TaxServiceBrazil.Triggers.AssignTaxCodesServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxServiceBrazil.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `SalesTransaction` | Transaction |

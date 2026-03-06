@@ -1,6 +1,9 @@
 # VoidCreditMemoRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.Payments.CreditMemo.VoidCreditMemoRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** other
+**Inherits:** CreditMemoRealtimeRequestBase
 
 ## Handled By
 

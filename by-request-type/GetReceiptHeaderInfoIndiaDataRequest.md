@@ -1,6 +1,9 @@
 # GetReceiptHeaderInfoIndiaDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetReceiptHeaderInfoIndiaDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** order
+**Inherits:** DataRequest
 
 ## Handled By
 

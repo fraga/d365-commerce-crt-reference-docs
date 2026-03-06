@@ -1,6 +1,9 @@
 # GetFiscalIntegrationSequentialKeysDocumentProviderRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.FiscalIntegration.DocumentProvider.Messages.GetFiscalIntegrationSequentialKeysDocumentProviderRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.FIF.DocumentProvider.Messages.dll
 **Domain:** tax
+**Inherits:** DocumentProviderRequest
 
 ## Handled By
 

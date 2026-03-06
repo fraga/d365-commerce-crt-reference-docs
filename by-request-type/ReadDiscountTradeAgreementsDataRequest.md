@@ -1,6 +1,9 @@
 # ReadDiscountTradeAgreementsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReadDiscountTradeAgreementsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** pricing
+**Inherits:** GetPriceAndDiscountDataRequest
 
 ## Handled By
 

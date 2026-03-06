@@ -1,6 +1,9 @@
 # GetCountiesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCountiesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** GetAddressInfoServiceRequest
 
 ## Handled By
 

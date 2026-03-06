@@ -1,6 +1,9 @@
 # GetElectronicInvoicingServiceHealthStatusServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.ElectronicInvoicingService.Messages.GetElectronicInvoicingServiceHealthStatusServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.ElectronicInvoicingService.dll
 **Domain:** other
+**Inherits:** ServiceRequest
 
 ## Handled By
 

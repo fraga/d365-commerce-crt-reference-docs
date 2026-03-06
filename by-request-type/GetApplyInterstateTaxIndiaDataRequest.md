@@ -1,6 +1,9 @@
 # GetApplyInterstateTaxIndiaDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetApplyInterstateTaxIndiaDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** tax
+**Inherits:** DataRequest
 
 ## Handled By
 

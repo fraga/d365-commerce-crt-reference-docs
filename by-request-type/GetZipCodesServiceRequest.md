@@ -1,6 +1,9 @@
 # GetZipCodesServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetZipCodesServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** other
+**Inherits:** GetAddressInfoServiceRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # GetEmailReceiptSettingsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetEmailReceiptSettingsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** order
+**Inherits:** DataRequest
 
 ## Handled By
 

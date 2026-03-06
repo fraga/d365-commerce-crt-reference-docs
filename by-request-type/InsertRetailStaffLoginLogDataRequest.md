@@ -1,6 +1,9 @@
 # InsertRetailStaffLoginLogDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.InsertRetailStaffLoginLogDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Domain:** employee
+**Inherits:** CreateEmployeeSessionDataRequest
 
 ## Handled By
 

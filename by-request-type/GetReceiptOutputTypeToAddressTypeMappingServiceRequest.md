@@ -1,6 +1,9 @@
 # GetReceiptOutputTypeToAddressTypeMappingServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetReceiptOutputTypeToAddressTypeMappingServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** ServiceRequest
 
 ## Handled By
 

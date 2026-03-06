@@ -1,6 +1,9 @@
 # GetEmployeeStoresFromAddressBookRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.GetEmployeeStoresFromAddressBookRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** employee
+**Inherits:** RealtimeRequest
 
 ## Handled By
 

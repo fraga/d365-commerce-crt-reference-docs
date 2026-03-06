@@ -1,6 +1,9 @@
 # GetDirectChildCategoriesDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetDirectChildCategoriesDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** other
+**Inherits:** DataRequest
 
 ## Handled By
 
@@ -9,3 +12,10 @@
 ## Triggers
 
 - Microsoft.Dynamics.Commerce.Runtime.Workflow.PrependAzureCmsMediaBaseUrlTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `long` | ChannelId |
+| `long` | ParentCategoryId |

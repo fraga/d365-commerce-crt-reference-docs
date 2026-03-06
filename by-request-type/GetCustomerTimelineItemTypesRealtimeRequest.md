@@ -1,6 +1,9 @@
 # GetCustomerTimelineItemTypesRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.GetCustomerTimelineItemTypesRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** customer
+**Inherits:** RealtimeRequest
 
 ## Handled By
 

@@ -1,6 +1,9 @@
 # LockGiftCardRealtimeRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.LockGiftCardRealtimeRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll
 **Domain:** other
+**Inherits:** GiftCardRealtimeRequestBase
 
 ## Handled By
 

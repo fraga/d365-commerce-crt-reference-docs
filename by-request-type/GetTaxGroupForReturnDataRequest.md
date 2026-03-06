@@ -1,6 +1,9 @@
 # GetTaxGroupForReturnDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Localization.TaxServiceBrazil.GetTaxGroupForReturnDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.TaxServiceBrazil.dll
 **Domain:** tax
+**Inherits:** DataRequest
 
 ## Handled By
 

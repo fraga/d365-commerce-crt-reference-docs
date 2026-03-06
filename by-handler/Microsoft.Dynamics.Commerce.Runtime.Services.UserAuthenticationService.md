@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Security.dll
 **Kind:** handler
 
-## Requests Handled (16)
+## Requests Handled (17)
 
 - [UserLogOnServiceRequest](../by-request-type/UserLogOnServiceRequest.md)
 - [UserLogOffServiceRequest](../by-request-type/UserLogOffServiceRequest.md)
@@ -13,6 +13,7 @@
 - [CheckAccessToCartServiceRequest](../by-request-type/CheckAccessToCartServiceRequest.md)
 - [CheckAccessToOrdersServiceRequest](../by-request-type/CheckAccessToOrdersServiceRequest.md)
 - [CheckAccessToCustomerAccountServiceRequest](../by-request-type/CheckAccessToCustomerAccountServiceRequest.md)
+- [CheckCustomerAccessToChannelServiceRequest](../by-request-type/CheckCustomerAccessToChannelServiceRequest.md)
 - [CheckEmployeePermissionServiceRequest](../by-request-type/CheckEmployeePermissionServiceRequest.md)
 - [UserLogOnRenewalServiceRequest](../by-request-type/UserLogOnRenewalServiceRequest.md)
 - [UserResetPasswordServiceRequest](../by-request-type/UserResetPasswordServiceRequest.md)
@@ -38,6 +39,7 @@ No triggers were found for this handler's request types.
 | [CheckAccessToCartServiceRequest](../by-request-type/CheckAccessToCartServiceRequest.md) |  |
 | [CheckAccessToOrdersServiceRequest](../by-request-type/CheckAccessToOrdersServiceRequest.md) |  |
 | [CheckAccessToCustomerAccountServiceRequest](../by-request-type/CheckAccessToCustomerAccountServiceRequest.md) |  |
+| [CheckCustomerAccessToChannelServiceRequest](../by-request-type/CheckCustomerAccessToChannelServiceRequest.md) |  |
 | [CheckEmployeePermissionServiceRequest](../by-request-type/CheckEmployeePermissionServiceRequest.md) |  |
 | [UserLogOnRenewalServiceRequest](../by-request-type/UserLogOnRenewalServiceRequest.md) |  |
 | [UserResetPasswordServiceRequest](../by-request-type/UserResetPasswordServiceRequest.md) |  |

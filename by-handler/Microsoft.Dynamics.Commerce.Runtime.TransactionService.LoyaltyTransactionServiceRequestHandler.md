@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.TransactionService.dll
 **Kind:** handler
 
-## Requests Handled (9)
+## Requests Handled (10)
 
 - [IssueLoyaltyCardRealtimeRequest](../by-request-type/IssueLoyaltyCardRealtimeRequest.md)
 - [GetLoyaltyCardTransactionsRealtimeRequest](../by-request-type/GetLoyaltyCardTransactionsRealtimeRequest.md)
@@ -14,6 +14,7 @@
 - [GetLoyaltyRewardPointActivityTimelineRealtimeRequest](../by-request-type/GetLoyaltyRewardPointActivityTimelineRealtimeRequest.md)
 - [GetLoyaltyRewardPointActivityTimelineForExpiredPointsRealtimeRequest](../by-request-type/GetLoyaltyRewardPointActivityTimelineForExpiredPointsRealtimeRequest.md)
 - [GetLoyaltyRewardPointsExpiringSoonRealtimeRequest](../by-request-type/GetLoyaltyRewardPointsExpiringSoonRealtimeRequest.md)
+- [GetLoyaltyCardProgramPointsToNextTierRealtimeRequest](../by-request-type/GetLoyaltyCardProgramPointsToNextTierRealtimeRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -32,3 +33,4 @@ No triggers were found for this handler's request types.
 | [GetLoyaltyRewardPointActivityTimelineRealtimeRequest](../by-request-type/GetLoyaltyRewardPointActivityTimelineRealtimeRequest.md) |  |
 | [GetLoyaltyRewardPointActivityTimelineForExpiredPointsRealtimeRequest](../by-request-type/GetLoyaltyRewardPointActivityTimelineForExpiredPointsRealtimeRequest.md) |  |
 | [GetLoyaltyRewardPointsExpiringSoonRealtimeRequest](../by-request-type/GetLoyaltyRewardPointsExpiringSoonRealtimeRequest.md) |  |
+| [GetLoyaltyCardProgramPointsToNextTierRealtimeRequest](../by-request-type/GetLoyaltyCardProgramPointsToNextTierRealtimeRequest.md) |  |

@@ -1,6 +1,9 @@
 # MarkFulfillmentLinesAsPickupServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.MarkFulfillmentLinesAsPickupServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** order
+**Inherits:** FulfillmentLineStatusTrackingServiceRequest
 
 ## Handled By
 

@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.dll
 **Kind:** handler
 
-## Requests Handled (20)
+## Requests Handled (35)
 
 - [GetStoreAddressBooksDataRequest](../by-request-type/GetStoreAddressBooksDataRequest.md)
 - [GetChannelConfigurationDataRequest](../by-request-type/GetChannelConfigurationDataRequest.md)
@@ -25,6 +25,21 @@
 - [GetChannelOrderManagementConfigurationDataRequest](../by-request-type/GetChannelOrderManagementConfigurationDataRequest.md)
 - [GetDeviceDataRequest](../by-request-type/GetDeviceDataRequest.md)
 - [GetDeviceConfigurationDataRequest](../by-request-type/GetDeviceConfigurationDataRequest.md)
+- [GetCurrenciesDataRequest](../by-request-type/GetCurrenciesDataRequest.md)
+- [CheckIsSellerChannelDataRequest](../by-request-type/CheckIsSellerChannelDataRequest.md)
+- [GetChannelDeliveryOptionConfigurationDataRequest](../by-request-type/GetChannelDeliveryOptionConfigurationDataRequest.md)
+- [GetSalesOrderHeaderAttributeGroupsDataRequest](../by-request-type/GetSalesOrderHeaderAttributeGroupsDataRequest.md)
+- [GetSalesOrderLinesAttributeGroupsDataRequest](../by-request-type/GetSalesOrderLinesAttributeGroupsDataRequest.md)
+- [GetStoreLocationsDataRequest](../by-request-type/GetStoreLocationsDataRequest.md)
+- [GetSharedConfigurationParametersDataRequest](../by-request-type/GetSharedConfigurationParametersDataRequest.md)
+- [GetImagesDataRequest](../by-request-type/GetImagesDataRequest.md)
+- [GetImageByImageIdDataRequest](../by-request-type/GetImageByImageIdDataRequest.md)
+- [GetLocalizedStringsDataRequest](../by-request-type/GetLocalizedStringsDataRequest.md)
+- [GetReceiptNumberResetInfoRequest](../by-request-type/GetReceiptNumberResetInfoRequest.md)
+- [GetChannelIdentityByIdDataRequest](../by-request-type/GetChannelIdentityByIdDataRequest.md)
+- [GetImagesByPictureIdsDataRequest](../by-request-type/GetImagesByPictureIdsDataRequest.md)
+- [GetChannelMerchandisingConfigurationDataRequest](../by-request-type/GetChannelMerchandisingConfigurationDataRequest.md)
+- [SearchJournalTransactionsDataRequest](../by-request-type/SearchJournalTransactionsDataRequest.md)
 
 ## Neighboring Triggers (1)
 
@@ -54,3 +69,18 @@
 | [GetChannelOrderManagementConfigurationDataRequest](../by-request-type/GetChannelOrderManagementConfigurationDataRequest.md) |  |
 | [GetDeviceDataRequest](../by-request-type/GetDeviceDataRequest.md) |  |
 | [GetDeviceConfigurationDataRequest](../by-request-type/GetDeviceConfigurationDataRequest.md) |  |
+| [GetCurrenciesDataRequest](../by-request-type/GetCurrenciesDataRequest.md) |  |
+| [CheckIsSellerChannelDataRequest](../by-request-type/CheckIsSellerChannelDataRequest.md) |  |
+| [GetChannelDeliveryOptionConfigurationDataRequest](../by-request-type/GetChannelDeliveryOptionConfigurationDataRequest.md) |  |
+| [GetSalesOrderHeaderAttributeGroupsDataRequest](../by-request-type/GetSalesOrderHeaderAttributeGroupsDataRequest.md) |  |
+| [GetSalesOrderLinesAttributeGroupsDataRequest](../by-request-type/GetSalesOrderLinesAttributeGroupsDataRequest.md) |  |
+| [GetStoreLocationsDataRequest](../by-request-type/GetStoreLocationsDataRequest.md) |  |
+| [GetSharedConfigurationParametersDataRequest](../by-request-type/GetSharedConfigurationParametersDataRequest.md) |  |
+| [GetImagesDataRequest](../by-request-type/GetImagesDataRequest.md) |  |
+| [GetImageByImageIdDataRequest](../by-request-type/GetImageByImageIdDataRequest.md) |  |
+| [GetLocalizedStringsDataRequest](../by-request-type/GetLocalizedStringsDataRequest.md) |  |
+| [GetReceiptNumberResetInfoRequest](../by-request-type/GetReceiptNumberResetInfoRequest.md) |  |
+| [GetChannelIdentityByIdDataRequest](../by-request-type/GetChannelIdentityByIdDataRequest.md) |  |
+| [GetImagesByPictureIdsDataRequest](../by-request-type/GetImagesByPictureIdsDataRequest.md) |  |
+| [GetChannelMerchandisingConfigurationDataRequest](../by-request-type/GetChannelMerchandisingConfigurationDataRequest.md) |  |
+| [SearchJournalTransactionsDataRequest](../by-request-type/SearchJournalTransactionsDataRequest.md) |  |

@@ -1,6 +1,9 @@
 # GetCustomerGroupsDataRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCustomerGroupsDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
 **Domain:** customer
+**Inherits:** DataRequest
 
 ## Handled By
 

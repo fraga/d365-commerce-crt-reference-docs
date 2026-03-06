@@ -1,8 +1,18 @@
 # AdjustTaxBasisServiceRequest
 
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AdjustTaxBasisServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
 **Domain:** tax
+**Inherits:** ServiceRequest
 
 ## Handled By
 
 - [Microsoft.Dynamics.Commerce.Runtime.Services.TaxService (Microsoft.Dynamics.Commerce.Runtime.Services.Taxes.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.TaxService.md)
 - [Microsoft.Dynamics.Commerce.Runtime.Services.Localization.TaxServiceBrazil.TaxServiceBrazilRequestHandler (Microsoft.Dynamics.Commerce.Runtime.TaxServiceBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.Localization.TaxServiceBrazil.TaxServiceBrazilRequestHandler.md)
+
+## Properties
+
+| Type | Name |
+|------|------|
+| `TaxableItem` | TaxableItem |
+| `IEnumerable<TaxCode>` | TaxCodes |
