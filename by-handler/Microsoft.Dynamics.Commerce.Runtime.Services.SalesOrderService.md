@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll
 **Kind:** handler
 
-## Requests Handled (26)
+## Requests Handled (27)
 
 - [AddRefundableTenderLinesToSalesOrderRequest](../by-request-type/AddRefundableTenderLinesToSalesOrderRequest.md)
 - [GetOrdersServiceRequest](../by-request-type/GetOrdersServiceRequest.md)
@@ -31,6 +31,7 @@
 - [UpdateConfirmedShipDateServiceRequest](../by-request-type/UpdateConfirmedShipDateServiceRequest.md)
 - [ConfirmSalesOrderServiceRequest](../by-request-type/ConfirmSalesOrderServiceRequest.md)
 - [CancelSalesOrderServiceRequest](../by-request-type/CancelSalesOrderServiceRequest.md)
+- [GetSalesTransactionCheckoutResultByTransactionIdRequest](../by-request-type/GetSalesTransactionCheckoutResultByTransactionIdRequest.md)
 
 ## Neighboring Triggers (9)
 
@@ -74,3 +75,4 @@
 | [UpdateConfirmedShipDateServiceRequest](../by-request-type/UpdateConfirmedShipDateServiceRequest.md) |  |
 | [ConfirmSalesOrderServiceRequest](../by-request-type/ConfirmSalesOrderServiceRequest.md) |  |
 | [CancelSalesOrderServiceRequest](../by-request-type/CancelSalesOrderServiceRequest.md) |  |
+| [GetSalesTransactionCheckoutResultByTransactionIdRequest](../by-request-type/GetSalesTransactionCheckoutResultByTransactionIdRequest.md) |  |

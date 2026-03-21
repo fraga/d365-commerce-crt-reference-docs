@@ -39,3 +39,4 @@
 | `DataTable` | FiscalTransExtendedDataTable |
 | `DataTable` | SalesAgreementLinesTable |
 | `DataTable` | NoteTable |
+| `DataTable` | AsynchronousPaymentTable |

@@ -1,6 +1,6 @@
 {
-  "sdk_version": "9.54.25319.3",
-  "generated_from": "sdk",
+  "sdk_version": "9.56.26056.3",
+  "generated_from": "sdk/9.56",
   "assemblies": [
     {
       "name": "Microsoft.Dynamics.Commerce.Diagnostics.AuditLog.dll",
@@ -31,34 +31,6 @@
       "trigger_count": 0
     },
     {
-      "name": "Microsoft.Dynamics.Commerce.Payments.Connector.Adyen.Localization.dll",
-      "file_version": "10.54.25275.2",
-      "informational_version": "10.54.25275.2+62201e32ab4a04059cb1b2e3bd07d88615cdc4b1",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Commerce.Payments.Connector.Adyen.Processor.Portable.dll",
-      "file_version": "",
-      "informational_version": "",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Commerce.Payments.Connector.PayPal.dll",
-      "file_version": "",
-      "informational_version": "",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Commerce.Payments.Connector.Utilities.PaymentProcessor.dll",
-      "file_version": "10.54.25275.2",
-      "informational_version": "10.54.25275.2+62201e32ab4a04059cb1b2e3bd07d88615cdc4b1",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
       "name": "Microsoft.Dynamics.Commerce.Proxies.CustomerInsightsConnector.dll",
       "file_version": "",
       "informational_version": "",
@@ -67,15 +39,15 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Proxies.FraudProtectionProxy.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Proxies.InventoryVisibilityConnector.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -95,7 +67,7 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Client.dll",
-      "file_version": "9.54.25319.3",
+      "file_version": "9.56.26056.3",
       "informational_version": "",
       "handler_count": 0,
       "trigger_count": 0
@@ -109,15 +81,15 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Connector.SequentialSign.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.CopilotServices.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 2,
       "trigger_count": 0
     },
@@ -144,43 +116,43 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataModel.Brazil.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataModel.France.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataModel.India.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataModel.Italy.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataModel.Poland.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -188,7 +160,7 @@
       "name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll",
       "file_version": "",
       "informational_version": "",
-      "handler_count": 105,
+      "handler_count": 106,
       "trigger_count": 0
     },
     {
@@ -214,8 +186,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalServiceBrazil.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
@@ -235,8 +207,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Entities.AttributeBasedPricing.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -249,15 +221,15 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.FIF.Connector.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.FIF.DocumentProvider.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -270,8 +242,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.FraudProtectionServices.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
@@ -284,8 +256,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.GraphServices.PlannerTask.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
@@ -305,8 +277,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.Data.Services.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -319,42 +291,42 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.DataServices.Messages.Internal.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.Entities.Internal.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.Entities.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.RealtimeServices.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Messages.Internal.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.Services.Messages.dll",
-      "file_version": "9.54.25319.3",
+      "file_version": "9.56.26056.3",
       "informational_version": "",
       "handler_count": 0,
       "trigger_count": 0
@@ -368,78 +340,78 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Localization.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.MandatoryTaxGroupItaly.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 1
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.RealtimeServices.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsAustria.Contracts.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsAustria.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsCzechia.Contracts.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsCzechia.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsFrance.Contracts.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsFrance.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsGermany.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
@@ -452,43 +424,43 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.ReceiptsSweden.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.RecommendationServices.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 3,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventAustria.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventFrance.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventNorway.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 1
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.RestrictShiftDuration.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 1
     },
@@ -501,15 +473,15 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.SearchServices.Bing.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.AttributeBasedPricingEngine.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -529,29 +501,29 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.DataSync.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.Desktop.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.FiscalIntegrations.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.Infrastructure.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 7,
       "trigger_count": 0
     },
@@ -571,8 +543,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.Loyalty.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 1
     },
@@ -585,8 +557,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -601,7 +573,7 @@
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll",
       "file_version": "",
       "informational_version": "",
-      "handler_count": 12,
+      "handler_count": 13,
       "trigger_count": 0
     },
     {
@@ -641,8 +613,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.Taxes.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 2,
       "trigger_count": 0
     },
@@ -655,8 +627,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.Services.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -690,15 +662,15 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.TaxServiceBrazil.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 2,
       "trigger_count": 2
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.TaxServiceIndia.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 1,
       "trigger_count": 1
     },
@@ -711,8 +683,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.UseAdvanceInvoice.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 1
     },
@@ -720,7 +692,7 @@
       "name": "Microsoft.Dynamics.Commerce.Runtime.Workflow.dll",
       "file_version": "",
       "informational_version": "",
-      "handler_count": 141,
+      "handler_count": 144,
       "trigger_count": 9
     },
     {
@@ -732,8 +704,8 @@
     },
     {
       "name": "Microsoft.Dynamics.Commerce.Runtime.XZReportsFrance.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 2
     },
@@ -767,36 +739,36 @@
     },
     {
       "name": "Microsoft.Dynamics.Retail.Cdx.CsvDataHandlers.dll",
-      "file_version": "10.54.25218.3",
-      "informational_version": "10.54.25218.3+3f608822bbf8516d6faf1eb4e161a657dcea8bfc",
+      "file_version": "10.56.26055.1",
+      "informational_version": "10.56.26055.1+71d2aa71db64570b2ff3afe3d4739152de0502ab",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.Cdx.RealtimeServiceClientLibrary.dll",
-      "file_version": "",
+      "file_version": "10.56.26055.1",
       "informational_version": "",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.CommerceDataExchange.AsyncClient.Business.dll",
-      "file_version": "10.54.25218.3",
-      "informational_version": "10.54.25218.3+3f608822bbf8516d6faf1eb4e161a657dcea8bfc",
+      "file_version": "10.56.26055.1",
+      "informational_version": "10.56.26055.1+71d2aa71db64570b2ff3afe3d4739152de0502ab",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.CommerceDataExchange.AsyncClient.DataManager.dll",
-      "file_version": "10.54.25218.3",
-      "informational_version": "10.54.25218.3+3f608822bbf8516d6faf1eb4e161a657dcea8bfc",
+      "file_version": "10.56.26055.1",
+      "informational_version": "10.56.26055.1+71d2aa71db64570b2ff3afe3d4739152de0502ab",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.CommerceDataExchange.NetStandardAdapters.dll",
-      "file_version": "10.54.25218.3",
-      "informational_version": "10.54.25218.3+3f608822bbf8516d6faf1eb4e161a657dcea8bfc",
+      "file_version": "10.56.26055.1",
+      "informational_version": "10.56.26055.1+71d2aa71db64570b2ff3afe3d4739152de0502ab",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -811,13 +783,6 @@
       "name": "Microsoft.Dynamics.Retail.Diagnostics.Core.Desktop.dll",
       "file_version": "10.15.25302.1",
       "informational_version": "10.15.25302.1+f72eb8a173145e07780235845a8240450875576e",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Retail.Diagnostics.Etw.dll",
-      "file_version": "10.13.23290.1",
-      "informational_version": "10.13.23290.1+0682ff0bb9678e19376bc4c3ec3b2830ce1737ce",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -843,30 +808,16 @@
       "trigger_count": 0
     },
     {
-      "name": "Microsoft.Dynamics.Retail.PaymentProcessor.Common.dll",
-      "file_version": "10.47.24059.1",
-      "informational_version": "10.47.24059.1+f243cc5b20526225805eb3517a0d8a7844b16c32",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
       "name": "Microsoft.Dynamics.Retail.PaymentSDK.Extensions.dll",
-      "file_version": "10.54.25275.2",
-      "informational_version": "10.54.25275.2+62201e32ab4a04059cb1b2e3bd07d88615cdc4b1",
+      "file_version": "10.56.26052.2",
+      "informational_version": "10.56.26052.2+9958dfa4fe0fe40d28ce243e93793561ab7a0c61",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.PaymentSDK.Portable.dll",
-      "file_version": "10.54.25275.2",
-      "informational_version": "10.54.25275.2+62201e32ab4a04059cb1b2e3bd07d88615cdc4b1",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Retail.PaymentSDK.dll",
-      "file_version": "10.47.24059.1",
-      "informational_version": "10.47.24059.1+f243cc5b20526225805eb3517a0d8a7844b16c32",
+      "file_version": "10.56.26052.2",
+      "informational_version": "10.56.26052.2+9958dfa4fe0fe40d28ce243e93793561ab7a0c61",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -879,29 +830,22 @@
     },
     {
       "name": "Microsoft.Dynamics.Retail.RetailServer.AspNetCore.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.RetailServer.ElectronicFiscalDocumentBrazil.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
     {
       "name": "Microsoft.Dynamics.Retail.RetailServer.TaxRegistrationIdIndia.dll",
-      "file_version": "9.54.25319.3",
-      "informational_version": "9.54.25319.3+aac115812b7a6ce518e646de715af762f1a25edf",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Retail.RetailServer.dll",
-      "file_version": "9.47.24064.5",
-      "informational_version": "9.47.24064.5+dd6438e478eb3c8391fbca4972c7bdd09b377481",
+      "file_version": "9.56.26056.3",
+      "informational_version": "9.56.26056.3+581c80ce49215a278cfc76408d544d3bf91056d2",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -913,16 +857,9 @@
       "trigger_count": 0
     },
     {
-      "name": "Microsoft.Dynamics.Retail.RetailServerLibrary.dll",
-      "file_version": "",
-      "informational_version": "",
-      "handler_count": 1,
-      "trigger_count": 0
-    },
-    {
       "name": "Microsoft.Dynamics.Retail.SDKManager.Portable.dll",
-      "file_version": "10.54.25275.2",
-      "informational_version": "10.54.25275.2+62201e32ab4a04059cb1b2e3bd07d88615cdc4b1",
+      "file_version": "10.56.26052.2",
+      "informational_version": "10.56.26052.2+9958dfa4fe0fe40d28ce243e93793561ab7a0c61",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -937,13 +874,6 @@
       "name": "Microsoft.Dynamics.Retail.SynchLibrary.dll",
       "file_version": "",
       "informational_version": "",
-      "handler_count": 0,
-      "trigger_count": 0
-    },
-    {
-      "name": "Microsoft.Dynamics.Retail.TestConnector.Portable.dll",
-      "file_version": "10.54.25275.2",
-      "informational_version": "10.54.25275.2+62201e32ab4a04059cb1b2e3bd07d88615cdc4b1",
       "handler_count": 0,
       "trigger_count": 0
     },
@@ -1505,6 +1435,16 @@
       ]
     },
     {
+      "type_name": "CheckoutErrorLogSqlServerDataService",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll",
+      "kind": "handler",
+      "supported_requests": [
+        "InsertCheckoutErrorLogDataRequest",
+        "GetCheckoutErrorLogDataRequest"
+      ]
+    },
+    {
       "type_name": "ClientBookSqlServerDataService",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ClientBookSqlServerDataService",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll",
@@ -1648,7 +1588,8 @@
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll",
       "kind": "handler",
       "supported_requests": [
-        "GetEmailTemplateDataRequest"
+        "GetEmailTemplateDataRequest",
+        "GetEmailTemplateByEventNotificationTypeDataRequest"
       ]
     },
     {
@@ -1862,7 +1803,8 @@
       "supported_requests": [
         "GetNotificationAcknowledgementsDataRequest",
         "CreatePaymentNotificationDataRequest",
-        "GetPaymentNotificationsDataRequest"
+        "GetPaymentNotificationsDataRequest",
+        "UpdatePaymentNotificationProcessingStatusDataRequest"
       ]
     },
     {
@@ -1880,7 +1822,8 @@
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll",
       "kind": "handler",
       "supported_requests": [
-        "SetOfflineTerminalStateDataRequest"
+        "SetOfflineTerminalStateDataRequest",
+        "PurgeTerminalStateDataRequest"
       ]
     },
     {
@@ -2123,7 +2066,8 @@
         "GetTokenizedPaymentSessionDataRequest",
         "SetTokenizedPaymentSessionDataRequest",
         "GetReturnedQuantitiesDataRequest",
-        "GetSalesTransactionReadOnlyStatusDataRequest"
+        "GetSalesTransactionReadOnlyStatusDataRequest",
+        "CheckSalesTransactionExistenceDataRequest"
       ]
     },
     {
@@ -2211,9 +2155,7 @@
       "kind": "handler",
       "supported_requests": [
         "GetStoresDataRequest",
-        "SearchStoresDataRequest",
-        "GetOrgUnitContactsDataRequest",
-        "GetOrgUnitAddressDataRequest"
+        "SearchStoresDataRequest"
       ]
     },
     {
@@ -2585,7 +2527,8 @@
         "GetChannelIdentityByIdDataRequest",
         "GetImagesByPictureIdsDataRequest",
         "GetChannelMerchandisingConfigurationDataRequest",
-        "SearchJournalTransactionsDataRequest"
+        "SearchJournalTransactionsDataRequest",
+        "GetNonDefaultLanguageIdDataRequest"
       ]
     },
     {
@@ -4992,7 +4935,8 @@
         "InvokeOrderAsynchronousOperationRequest",
         "UpdateConfirmedShipDateServiceRequest",
         "ConfirmSalesOrderServiceRequest",
-        "CancelSalesOrderServiceRequest"
+        "CancelSalesOrderServiceRequest",
+        "GetSalesTransactionCheckoutResultByTransactionIdRequest"
       ]
     },
     {
@@ -5079,6 +5023,15 @@
         "GetChangePaymentServiceRequest",
         "IsTenderLineLinkedRefundableServiceRequest",
         "ValidatePaymentAmountForOnlineStoreCheckoutRequest"
+      ]
+    },
+    {
+      "type_name": "CreateAsynchronousPaymentServiceRequestHandler",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Services.CreateAsynchronousPaymentServiceRequestHandler",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll",
+      "kind": "single_handler",
+      "supported_requests": [
+        "CreateAsynchronousPaymentServiceRequest"
       ]
     },
     {
@@ -5204,7 +5157,8 @@
         "ResolveCardTypesByPaymentTypeServiceRequest",
         "GetPaymentConfigurationServiceRequest",
         "PostPaymentNotificationServiceRequest",
-        "GetPaymentNotificationsServiceRequest"
+        "GetPaymentNotificationsServiceRequest",
+        "UpdatePaymentNotificationProcessingStatusServiceRequest"
       ]
     },
     {
@@ -7083,6 +7037,15 @@
       ]
     },
     {
+      "type_name": "CreateAndSaveAsynchronousPaymentToCartRequestHandler",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSaveAsynchronousPaymentToCartRequestHandler",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Workflow.dll",
+      "kind": "single_handler",
+      "supported_requests": [
+        "CreateAndSaveAsynchronousPaymentToCartRequest"
+      ]
+    },
+    {
       "type_name": "CreateAndSavePaymentLinkToCartRequestHandler",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSavePaymentLinkToCartRequestHandler",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.Workflow.dll",
@@ -7389,6 +7352,15 @@
       ]
     },
     {
+      "type_name": "SetCartLockRequestHandler",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Workflow.SetCartLockRequestHandler",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Workflow.dll",
+      "kind": "single_handler",
+      "supported_requests": [
+        "SetCartLockRequest"
+      ]
+    },
+    {
       "type_name": "SortSalesLinesRequestHandler",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.Workflow.SortSalesLinesRequestHandler",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.Workflow.dll",
@@ -7503,6 +7475,15 @@
       "kind": "single_handler",
       "supported_requests": [
         "VoidSuspendedCartsRequest"
+      ]
+    },
+    {
+      "type_name": "PostPaymentNotificationHandler",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Workflow.PostPaymentNotificationHandler",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Workflow.dll",
+      "kind": "single_handler",
+      "supported_requests": [
+        "PostPaymentNotificationRequest"
       ]
     },
     {
@@ -7850,15 +7831,6 @@
       "type_name": "GetEnvironmentConfigurationServiceRequestHandler",
       "full_name": "Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler",
       "assembly": "Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.dll",
-      "kind": "single_handler",
-      "supported_requests": [
-        "GetEnvironmentConfigurationServiceRequest"
-      ]
-    },
-    {
-      "type_name": "GetEnvironmentConfigurationServiceRequestHandler",
-      "full_name": "Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler",
-      "assembly": "Microsoft.Dynamics.Retail.RetailServerLibrary.dll",
       "kind": "single_handler",
       "supported_requests": [
         "GetEnvironmentConfigurationServiceRequest"
@@ -11377,6 +11349,27 @@
       "domain": "loyalty"
     },
     {
+      "name": "CheckSalesTransactionExistenceDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.CheckSalesTransactionExistenceDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [
+        {
+          "name": "TransactionId",
+          "property_type": "string"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.SalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "order"
+    },
+    {
       "name": "CheckoutCartRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.Messages.CheckoutCartRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.Messages.dll",
@@ -12010,6 +12003,35 @@
       "domain": "shipping"
     },
     {
+      "name": "CreateAndSaveAsynchronousPaymentToCartRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Messages.CreateAndSaveAsynchronousPaymentToCartRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "Request"
+      ],
+      "properties": [
+        {
+          "name": "AsyncPaymentParameters",
+          "property_type": "AsynchronousPaymentParameters"
+        },
+        {
+          "name": "CartId",
+          "property_type": "string"
+        },
+        {
+          "name": "CartVersion",
+          "property_type": "long?"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSaveAsynchronousPaymentToCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "cart"
+    },
+    {
       "name": "CreateAndSavePaymentLinkToCartServiceRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.Messages.CreateAndSavePaymentLinkToCartServiceRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.Messages.dll",
@@ -12039,6 +12061,35 @@
         "Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidatePayByLinkTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)"
       ],
       "domain": "cart"
+    },
+    {
+      "name": "CreateAsynchronousPaymentServiceRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CreateAsynchronousPaymentServiceRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "ServiceRequest"
+      ],
+      "properties": [
+        {
+          "name": "AsyncPaymentParameters",
+          "property_type": "AsynchronousPaymentParameters"
+        },
+        {
+          "name": "ReferenceId",
+          "property_type": "string"
+        },
+        {
+          "name": "SalesTransaction",
+          "property_type": "SalesTransaction"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.Services.CreateAsynchronousPaymentServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "payment"
     },
     {
       "name": "CreateBusinessPartnerProspectDataRequest",
@@ -12997,6 +13048,26 @@
         },
         {
           "name": "PaymentConnectorName",
+          "property_type": "string"
+        },
+        {
+          "name": "DestinationType",
+          "property_type": "string"
+        },
+        {
+          "name": "SourceId",
+          "property_type": "string"
+        },
+        {
+          "name": "SourceType",
+          "property_type": "string"
+        },
+        {
+          "name": "ExpirationDateTime",
+          "property_type": "DateTimeOffset"
+        },
+        {
+          "name": "Extension",
           "property_type": "string"
         }
       ],
@@ -13959,6 +14030,10 @@
         {
           "name": "ReferenceId",
           "property_type": "string"
+        },
+        {
+          "name": "DestinationTypes",
+          "property_type": "IList<string>"
         }
       ],
       "methods": [],
@@ -19062,6 +19137,31 @@
       "domain": "other"
     },
     {
+      "name": "GetCheckoutErrorLogDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCheckoutErrorLogDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [
+        {
+          "name": "TransactionId",
+          "property_type": "string"
+        },
+        {
+          "name": "ErrorLineNum",
+          "property_type": "int"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "other"
+    },
+    {
       "name": "GetCitiesDataRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCitiesDataRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
@@ -22440,6 +22540,35 @@
       "domain": "order"
     },
     {
+      "name": "GetEmailTemplateByEventNotificationTypeDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetEmailTemplateByEventNotificationTypeDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [
+        {
+          "name": "LanguageId",
+          "property_type": "string"
+        },
+        {
+          "name": "EventNotificationType",
+          "property_type": "ExtensibleEventNotificationType"
+        },
+        {
+          "name": "ChannelId",
+          "property_type": "long"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.EmailSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "other"
+    },
+    {
       "name": "GetEmailTemplateDataRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetEmailTemplateDataRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
@@ -22900,8 +23029,7 @@
       "properties": [],
       "methods": [],
       "handled_by": [
-        "Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.dll)",
-        "Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.dll)"
+        "Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.dll)"
       ],
       "triggered_by": [],
       "domain": "other"
@@ -28088,6 +28216,22 @@
       "domain": "order"
     },
     {
+      "name": "GetNonDefaultLanguageIdDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetNonDefaultLanguageIdDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.ChannelDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "other"
+    },
+    {
       "name": "GetNonFiscalDocumentFiscalIntegrationServiceRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetNonFiscalDocumentFiscalIntegrationServiceRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll",
@@ -28992,7 +29136,6 @@
       ],
       "methods": [],
       "handled_by": [
-        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.StoreLocatorSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)",
         "Microsoft.Dynamics.Commerce.Runtime.DataServices.StoreLocatorDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)"
       ],
       "triggered_by": [],
@@ -29035,7 +29178,6 @@
       ],
       "methods": [],
       "handled_by": [
-        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.StoreLocatorSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)",
         "Microsoft.Dynamics.Commerce.Runtime.DataServices.StoreLocatorDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)"
       ],
       "triggered_by": [],
@@ -34018,6 +34160,31 @@
       "domain": "tax"
     },
     {
+      "name": "GetSalesTransactionCheckoutResultByTransactionIdRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetSalesTransactionCheckoutResultByTransactionIdRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "ServiceRequest"
+      ],
+      "properties": [
+        {
+          "name": "TransactionId",
+          "property_type": "string"
+        },
+        {
+          "name": "ErrorLineNum",
+          "property_type": "int"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.Services.SalesOrderService (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "order"
+    },
+    {
       "name": "GetSalesTransactionDataRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetSalesTransactionDataRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
@@ -37981,6 +38148,27 @@
       "domain": "pricing"
     },
     {
+      "name": "InsertCheckoutErrorLogDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.InsertCheckoutErrorLogDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [
+        {
+          "name": "CheckoutErrors",
+          "property_type": "IReadOnlyCollection<CheckoutError>"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "other"
+    },
+    {
       "name": "InsertFulfillmentLineTransactionsDataRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.InsertFulfillmentLineTransactionsDataRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
@@ -38240,6 +38428,10 @@
         },
         {
           "name": "NoteTable",
+          "property_type": "DataTable"
+        },
+        {
+          "name": "AsynchronousPaymentTable",
           "property_type": "DataTable"
         }
       ],
@@ -39793,6 +39985,27 @@
       "domain": "loyalty"
     },
     {
+      "name": "PostPaymentNotificationRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Messages.PostPaymentNotificationRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "Request"
+      ],
+      "properties": [
+        {
+          "name": "Notification",
+          "property_type": "PaymentNotification"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.Workflow.PostPaymentNotificationHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "payment"
+    },
+    {
       "name": "PostPaymentNotificationServiceRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.PostPaymentNotificationServiceRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll",
@@ -40358,6 +40571,22 @@
         "Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventNorway.PurgeSalesTransactionsDataTrigger (Microsoft.Dynamics.Commerce.Runtime.RegisterAuditEventNorway.dll)"
       ],
       "domain": "order"
+    },
+    {
+      "name": "PurgeTerminalStateDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.PurgeTerminalStateDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.OfflineTerminalStateSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "channel"
     },
     {
       "name": "ReadChangedEntitiesIdsDataRequest",
@@ -45339,6 +45568,35 @@
       "domain": "cart"
     },
     {
+      "name": "SetCartLockRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Messages.SetCartLockRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "Request"
+      ],
+      "properties": [
+        {
+          "name": "CartId",
+          "property_type": "string"
+        },
+        {
+          "name": "CartLockAction",
+          "property_type": "CartLockAction"
+        },
+        {
+          "name": "CartVersion",
+          "property_type": "long?"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.Workflow.SetCartLockRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "cart"
+    },
+    {
       "name": "SetElectronicFiscalDocumentPropertiesServiceRequest",
       "full_name": "Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Services.Messages.SetElectronicFiscalDocumentPropertiesServiceRequest",
       "assembly": "Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll",
@@ -47839,6 +48097,56 @@
       ],
       "triggered_by": [],
       "domain": "channel"
+    },
+    {
+      "name": "UpdatePaymentNotificationProcessingStatusDataRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.UpdatePaymentNotificationProcessingStatusDataRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "DataRequest"
+      ],
+      "properties": [
+        {
+          "name": "Id",
+          "property_type": "Guid"
+        },
+        {
+          "name": "ProcessingStatus",
+          "property_type": "PaymentNotificationProcessingStatus"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NotificationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "payment"
+    },
+    {
+      "name": "UpdatePaymentNotificationProcessingStatusServiceRequest",
+      "full_name": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UpdatePaymentNotificationProcessingStatusServiceRequest",
+      "assembly": "Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll",
+      "kind": "class",
+      "base_types": [
+        "ServiceRequest"
+      ],
+      "properties": [
+        {
+          "name": "Id",
+          "property_type": "Guid"
+        },
+        {
+          "name": "ProcessingStatus",
+          "property_type": "PaymentNotificationProcessingStatus"
+        }
+      ],
+      "methods": [],
+      "handled_by": [
+        "Microsoft.Dynamics.Commerce.Runtime.Services.PaymentManagerService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)"
+      ],
+      "triggered_by": [],
+      "domain": "payment"
     },
     {
       "name": "UpdateProductWarehouseAvailabilityServiceRequest",

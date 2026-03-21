@@ -14,7 +14,7 @@
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.Inventory.FulfillmentLineStatusSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.Inventory.FulfillmentLineStatusSqlServerDataService.md) | handler | [GetLatestFulfillmentLineTransactionsDataRequest](../by-request-type/GetLatestFulfillmentLineTransactionsDataRequest.md), [InsertFulfillmentLineTransactionsDataRequest](../by-request-type/InsertFulfillmentLineTransactionsDataRequest.md), [GetSalesLineReferenceLookupsDataRequest](../by-request-type/GetSalesLineReferenceLookupsDataRequest.md), [InsertSalesLineReferenceLookupsDataRequest](../by-request-type/InsertSalesLineReferenceLookupsDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NonSalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NonSalesTransactionSqlServerDataService.md) | handler | [SaveNonSalesTransactionDataRequest](../by-request-type/SaveNonSalesTransactionDataRequest.md), [GetCurrentShiftNonSalesTransactionsDataRequest](../by-request-type/GetCurrentShiftNonSalesTransactionsDataRequest.md), [GetStoreSafeDataRequest](../by-request-type/GetStoreSafeDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ReceiptSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ReceiptSqlServerDataService.md) | handler | [GetEmailReceiptSettingsDataRequest](../by-request-type/GetEmailReceiptSettingsDataRequest.md) |
-| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.SalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.SalesTransactionSqlServerDataService.md) | handler | [GetCartsDataRequest](../by-request-type/GetCartsDataRequest.md), [SaveCartVersionedDataRequest](../by-request-type/SaveCartVersionedDataRequest.md), [SaveCartDataRequest](../by-request-type/SaveCartDataRequest.md), [InsertTransactionHeaderDataRequest](../by-request-type/InsertTransactionHeaderDataRequest.md), [InsertSalesTransactionTablesDataRequest](../by-request-type/InsertSalesTransactionTablesDataRequest.md) (+10) |
+| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.SalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.SalesTransactionSqlServerDataService.md) | handler | [GetCartsDataRequest](../by-request-type/GetCartsDataRequest.md), [SaveCartVersionedDataRequest](../by-request-type/SaveCartVersionedDataRequest.md), [SaveCartDataRequest](../by-request-type/SaveCartDataRequest.md), [InsertTransactionHeaderDataRequest](../by-request-type/InsertTransactionHeaderDataRequest.md), [InsertSalesTransactionTablesDataRequest](../by-request-type/InsertSalesTransactionTablesDataRequest.md) (+11) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.WarrantySalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.WarrantySalesTransactionSqlServerDataService.md) | handler | [GetWarrantyTransactionsDataRequest](../by-request-type/GetWarrantyTransactionsDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.SalesTransactionSqlSharedDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.SalesTransactionSqlSharedDataService.md) | handler | [DeleteCartDataRequest](../by-request-type/DeleteCartDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DocumentProvider.SequentialSignature.SequentialSignatureSalesOrderAdjustmentService (Microsoft.Dynamics.Commerce.Runtime.DocumentProvider.SequentialSignature.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DocumentProvider.SequentialSignature.SequentialSignatureSalesOrderAdjustmentService.md) | handler | [SequentialSignatureSalesOrderAdjustmentRequest](../by-request-type/SequentialSignatureSalesOrderAdjustmentRequest.md) |
@@ -51,7 +51,7 @@
 | [Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PriceAttributeSalesOrderProvider (Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PriceAttributeSalesOrderProvider.md) | single_handler | [ResolvePriceAttributeValuesServiceRequest](../by-request-type/ResolvePriceAttributeValuesServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesOrderAttributeProvider (Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.Pricing.PricingPropertySalesOrderAttributeProvider.md) | single_handler | [ResolvePricingPropertyValuesServiceRequest](../by-request-type/ResolvePricingPropertyValuesServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Services.ReceiptService (Microsoft.Dynamics.Commerce.Runtime.Services.Receipts.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.ReceiptService.md) | handler | [GetReceiptServiceRequest](../by-request-type/GetReceiptServiceRequest.md), [GetEmailReceiptServiceRequest](../by-request-type/GetEmailReceiptServiceRequest.md), [PopulateTaxSummaryIndiaServiceRequest](../by-request-type/PopulateTaxSummaryIndiaServiceRequest.md), [GetReprintNumberServiceRequest](../by-request-type/GetReprintNumberServiceRequest.md), [GetReceiptFieldInfoFromTransactionServiceRequest](../by-request-type/GetReceiptFieldInfoFromTransactionServiceRequest.md) |
-| [Microsoft.Dynamics.Commerce.Runtime.Services.SalesOrderService (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.SalesOrderService.md) | handler | [AddRefundableTenderLinesToSalesOrderRequest](../by-request-type/AddRefundableTenderLinesToSalesOrderRequest.md), [GetOrdersServiceRequest](../by-request-type/GetOrdersServiceRequest.md), [CreateSalesOrderServiceRequest](../by-request-type/CreateSalesOrderServiceRequest.md), [GetNextReceiptIdServiceRequest](../by-request-type/GetNextReceiptIdServiceRequest.md), [GenerateOrderNumberServiceRequest](../by-request-type/GenerateOrderNumberServiceRequest.md) (+21) |
+| [Microsoft.Dynamics.Commerce.Runtime.Services.SalesOrderService (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.SalesOrderService.md) | handler | [AddRefundableTenderLinesToSalesOrderRequest](../by-request-type/AddRefundableTenderLinesToSalesOrderRequest.md), [GetOrdersServiceRequest](../by-request-type/GetOrdersServiceRequest.md), [CreateSalesOrderServiceRequest](../by-request-type/CreateSalesOrderServiceRequest.md), [GetNextReceiptIdServiceRequest](../by-request-type/GetNextReceiptIdServiceRequest.md), [GenerateOrderNumberServiceRequest](../by-request-type/GenerateOrderNumberServiceRequest.md) (+22) |
 | [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.Services.TaxIdentifiersReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdBrazil.Services.TaxIdentifiersReceiptService.md) | handler | [GetLocalizationCustomReceiptFieldServiceRequest](../by-request-type/GetLocalizationCustomReceiptFieldServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdIndia.Services.TaxRegistrationIdReceiptService.md) | handler | [GetLocalizationCustomReceiptFieldServiceRequest](../by-request-type/GetLocalizationCustomReceiptFieldServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Services.TaxRegistrationIdReceiptService (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Services.TaxRegistrationIdReceiptService.md) | handler | [GetLocalizationCustomReceiptFieldServiceRequest](../by-request-type/GetLocalizationCustomReceiptFieldServiceRequest.md) |
@@ -100,7 +100,7 @@
 | Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateSalesOrderServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll) | [CreateSalesOrderServiceRequest](../by-request-type/CreateSalesOrderServiceRequest.md) |
 | Microsoft.Dynamics.Commerce.Runtime.XZReportsFrance.GetReceiptServiceRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.XZReportsFrance.dll) | [GetReceiptServiceRequest](../by-request-type/GetReceiptServiceRequest.md) |
 
-## Request Types (157)
+## Request Types (159)
 
 ### AcceptFulfillmentLinesRealtimeRequest
 
@@ -237,6 +237,17 @@
 | `string` | PackingSlipId |
 | `string` | ChannelReferenceId |
 | `IEnumerable<CommerceProperty>` | OrderPickupAddtionalInformation |
+
+### CheckSalesTransactionExistenceDataRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.CheckSalesTransactionExistenceDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.SalesTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)
+**Inherits:** DataRequest
+
+| Type | Property |
+|------|----------|
+| `string` | TransactionId |
 
 ### ConfirmPurchaseOrderRealtimeRequest
 
@@ -1187,6 +1198,18 @@
 | `string` | StoreNumber |
 | `string` | TerminalId |
 
+### GetSalesTransactionCheckoutResultByTransactionIdRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetSalesTransactionCheckoutResultByTransactionIdRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.Services.SalesOrderService (Microsoft.Dynamics.Commerce.Runtime.Services.Orders.dll)
+**Inherits:** ServiceRequest
+
+| Type | Property |
+|------|----------|
+| `string` | TransactionId |
+| `int` | ErrorLineNum |
+
 ### GetSalesTransactionDataRequest
 
 **Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetSalesTransactionDataRequest`
@@ -1419,6 +1442,7 @@
 | `DataTable` | FiscalTransExtendedDataTable |
 | `DataTable` | SalesAgreementLinesTable |
 | `DataTable` | NoteTable |
+| `DataTable` | AsynchronousPaymentTable |
 
 ### InvokeOrderAsynchronousOperationRequest
 

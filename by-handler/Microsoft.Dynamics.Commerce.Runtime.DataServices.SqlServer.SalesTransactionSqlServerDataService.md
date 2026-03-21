@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (15)
+## Requests Handled (16)
 
 - [GetCartsDataRequest](../by-request-type/GetCartsDataRequest.md)
 - [SaveCartVersionedDataRequest](../by-request-type/SaveCartVersionedDataRequest.md)
@@ -20,6 +20,7 @@
 - [SetTokenizedPaymentSessionDataRequest](../by-request-type/SetTokenizedPaymentSessionDataRequest.md)
 - [GetReturnedQuantitiesDataRequest](../by-request-type/GetReturnedQuantitiesDataRequest.md)
 - [GetSalesTransactionReadOnlyStatusDataRequest](../by-request-type/GetSalesTransactionReadOnlyStatusDataRequest.md)
+- [CheckSalesTransactionExistenceDataRequest](../by-request-type/CheckSalesTransactionExistenceDataRequest.md)
 
 ## Neighboring Triggers (5)
 
@@ -48,3 +49,4 @@
 | [SetTokenizedPaymentSessionDataRequest](../by-request-type/SetTokenizedPaymentSessionDataRequest.md) |  |
 | [GetReturnedQuantitiesDataRequest](../by-request-type/GetReturnedQuantitiesDataRequest.md) |  |
 | [GetSalesTransactionReadOnlyStatusDataRequest](../by-request-type/GetSalesTransactionReadOnlyStatusDataRequest.md) |  |
+| [CheckSalesTransactionExistenceDataRequest](../by-request-type/CheckSalesTransactionExistenceDataRequest.md) |  |

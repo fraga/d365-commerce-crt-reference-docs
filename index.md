@@ -1,7 +1,7 @@
 # CRT Extension Point Guide
 
-SDK Version: `9.54.25319.3`
-Generated from: `sdk`
+SDK Version: `9.56.26056.3`
+Generated from: `sdk/9.56`
 
 ## Start Here
 
@@ -93,7 +93,7 @@ public sealed class SaveCustomerTrigger : IRequestTriggerAsync
 
 | Item | Count |
 |------|-------|
-| Assemblies | 146 |
-| Handlers | 622 |
+| Assemblies | 136 |
+| Handlers | 626 |
 | Triggers | 80 |
-| Request Types | 1651 |
+| Request Types | 1664 |

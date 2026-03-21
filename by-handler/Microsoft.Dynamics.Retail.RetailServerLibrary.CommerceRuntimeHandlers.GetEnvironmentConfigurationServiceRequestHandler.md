@@ -1,6 +1,6 @@
 # Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler
 
-**Assembly:** Microsoft.Dynamics.Retail.RetailServerLibrary.dll
+**Assembly:** Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.dll
 **Kind:** single_handler
 
 ## Requests Handled (1)

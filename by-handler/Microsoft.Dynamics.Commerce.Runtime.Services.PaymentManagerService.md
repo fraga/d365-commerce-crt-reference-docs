@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll
 **Kind:** handler
 
-## Requests Handled (13)
+## Requests Handled (14)
 
 - [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md)
 - [CapturePaymentServiceRequest](../by-request-type/CapturePaymentServiceRequest.md)
@@ -18,6 +18,7 @@
 - [GetPaymentConfigurationServiceRequest](../by-request-type/GetPaymentConfigurationServiceRequest.md)
 - [PostPaymentNotificationServiceRequest](../by-request-type/PostPaymentNotificationServiceRequest.md)
 - [GetPaymentNotificationsServiceRequest](../by-request-type/GetPaymentNotificationsServiceRequest.md)
+- [UpdatePaymentNotificationProcessingStatusServiceRequest](../by-request-type/UpdatePaymentNotificationProcessingStatusServiceRequest.md)
 
 ## Neighboring Triggers (1)
 
@@ -40,3 +41,4 @@
 | [GetPaymentConfigurationServiceRequest](../by-request-type/GetPaymentConfigurationServiceRequest.md) |  |
 | [PostPaymentNotificationServiceRequest](../by-request-type/PostPaymentNotificationServiceRequest.md) |  |
 | [GetPaymentNotificationsServiceRequest](../by-request-type/GetPaymentNotificationsServiceRequest.md) |  |
+| [UpdatePaymentNotificationProcessingStatusServiceRequest](../by-request-type/UpdatePaymentNotificationProcessingStatusServiceRequest.md) |  |

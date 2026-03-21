@@ -209,7 +209,7 @@
 
 **Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOrgUnitAddressDataRequest`
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
-**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.StoreLocatorSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll), Microsoft.Dynamics.Commerce.Runtime.DataServices.StoreLocatorDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.StoreLocatorDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)
 **Inherits:** DataRequest
 
 | Type | Property |

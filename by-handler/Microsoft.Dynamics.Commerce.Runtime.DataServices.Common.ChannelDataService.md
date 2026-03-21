@@ -3,7 +3,7 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.dll
 **Kind:** handler
 
-## Requests Handled (35)
+## Requests Handled (36)
 
 - [GetStoreAddressBooksDataRequest](../by-request-type/GetStoreAddressBooksDataRequest.md)
 - [GetChannelConfigurationDataRequest](../by-request-type/GetChannelConfigurationDataRequest.md)
@@ -40,6 +40,7 @@
 - [GetImagesByPictureIdsDataRequest](../by-request-type/GetImagesByPictureIdsDataRequest.md)
 - [GetChannelMerchandisingConfigurationDataRequest](../by-request-type/GetChannelMerchandisingConfigurationDataRequest.md)
 - [SearchJournalTransactionsDataRequest](../by-request-type/SearchJournalTransactionsDataRequest.md)
+- [GetNonDefaultLanguageIdDataRequest](../by-request-type/GetNonDefaultLanguageIdDataRequest.md)
 
 ## Neighboring Triggers (1)
 
@@ -84,3 +85,4 @@
 | [GetImagesByPictureIdsDataRequest](../by-request-type/GetImagesByPictureIdsDataRequest.md) |  |
 | [GetChannelMerchandisingConfigurationDataRequest](../by-request-type/GetChannelMerchandisingConfigurationDataRequest.md) |  |
 | [SearchJournalTransactionsDataRequest](../by-request-type/SearchJournalTransactionsDataRequest.md) |  |
+| [GetNonDefaultLanguageIdDataRequest](../by-request-type/GetNonDefaultLanguageIdDataRequest.md) |  |

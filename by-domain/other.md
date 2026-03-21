@@ -41,6 +41,7 @@
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AuditLogSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AuditLogSqlServerDataService.md) | handler | [InsertAuditLogDataRequest](../by-request-type/InsertAuditLogDataRequest.md), [PurgeAuditLogsDataRequest](../by-request-type/PurgeAuditLogsDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ChangeTrackingSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ChangeTrackingSqlServerDataService.md) | handler | [SaveChangedEntitiesIdsDataRequest](../by-request-type/SaveChangedEntitiesIdsDataRequest.md), [ReadChangedEntitiesIdsDataRequest](../by-request-type/ReadChangedEntitiesIdsDataRequest.md), [DeleteChangedEntitiesIdsDataRequest](../by-request-type/DeleteChangedEntitiesIdsDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ChecklistTaskSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ChecklistTaskSqlServerDataService.md) | handler | [GetChecklistTaskTeamsIntegrationConfigurationDataRequest](../by-request-type/GetChecklistTaskTeamsIntegrationConfigurationDataRequest.md), [GetChecklistTasksChannelPlanIdDataRequest](../by-request-type/GetChecklistTasksChannelPlanIdDataRequest.md), [GetChecklistTasksHeaderDataRequest](../by-request-type/GetChecklistTasksHeaderDataRequest.md), [UpdateChecklistTasksHeaderDataRequest](../by-request-type/UpdateChecklistTasksHeaderDataRequest.md), [GetChecklistTasksDataRequest](../by-request-type/GetChecklistTasksDataRequest.md) (+4) |
+| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService.md) | handler | [InsertCheckoutErrorLogDataRequest](../by-request-type/InsertCheckoutErrorLogDataRequest.md), [GetCheckoutErrorLogDataRequest](../by-request-type/GetCheckoutErrorLogDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ClientBookSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ClientBookSqlServerDataService.md) | handler | [SearchClientBookCustomersDataRequest](../by-request-type/SearchClientBookCustomersDataRequest.md), [GetClientBookSearchRefinersDataRequest](../by-request-type/GetClientBookSearchRefinersDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CommerceIdentityProviderSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CommerceIdentityProviderSqlServerDataService.md) | handler | [GetCommerceIdentityProviderByIssuerDataRequest](../by-request-type/GetCommerceIdentityProviderByIssuerDataRequest.md), [GetCommerceIdentityProvidersDataRequest](../by-request-type/GetCommerceIdentityProvidersDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CreditMemoSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CreditMemoSqlServerDataService.md) | handler | [SaveCreditMemoChannelTransactionDataRequest](../by-request-type/SaveCreditMemoChannelTransactionDataRequest.md) |
@@ -48,11 +49,11 @@
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DatabaseEnvironmentConfigurationDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DatabaseEnvironmentConfigurationDataService.md) | single_handler | [LogDatabaseEnvironmentConfigurationRequest](../by-request-type/LogDatabaseEnvironmentConfigurationRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DocumentOperationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DocumentOperationSqlServerDataService.md) | handler | [SaveDocumentOperationDataRequest](../by-request-type/SaveDocumentOperationDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DropAndDeclareSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DropAndDeclareSqlServerDataService.md) | handler | [SaveDropAndDeclareTransactionDataRequest](../by-request-type/SaveDropAndDeclareTransactionDataRequest.md), [GetDropAndDeclareTransactionDataRequest](../by-request-type/GetDropAndDeclareTransactionDataRequest.md), [GetDropAndDeclareTransactionTenderDetailsDataRequest](../by-request-type/GetDropAndDeclareTransactionTenderDetailsDataRequest.md) |
-| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.EmailSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.EmailSqlServerDataService.md) | handler | [GetEmailTemplateDataRequest](../by-request-type/GetEmailTemplateDataRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.EmailSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.EmailSqlServerDataService.md) | handler | [GetEmailTemplateDataRequest](../by-request-type/GetEmailTemplateDataRequest.md), [GetEmailTemplateByEventNotificationTypeDataRequest](../by-request-type/GetEmailTemplateByEventNotificationTypeDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.GiftCardSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.GiftCardSqlServerDataService.md) | handler |  |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.IncomeExpenseAccountsSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.IncomeExpenseAccountsSqlServerDataService.md) | handler | [GetIncomeExpenseAccountsDataRequest](../by-request-type/GetIncomeExpenseAccountsDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.KitTransactionSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.KitTransactionSqlServerDataService.md) | handler | [SaveKitTransactionDataRequest](../by-request-type/SaveKitTransactionDataRequest.md) |
-| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NotificationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NotificationSqlServerDataService.md) | handler | [GetNotificationAcknowledgementsDataRequest](../by-request-type/GetNotificationAcknowledgementsDataRequest.md), [CreatePaymentNotificationDataRequest](../by-request-type/CreatePaymentNotificationDataRequest.md), [GetPaymentNotificationsDataRequest](../by-request-type/GetPaymentNotificationsDataRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NotificationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NotificationSqlServerDataService.md) | handler | [GetNotificationAcknowledgementsDataRequest](../by-request-type/GetNotificationAcknowledgementsDataRequest.md), [CreatePaymentNotificationDataRequest](../by-request-type/CreatePaymentNotificationDataRequest.md), [GetPaymentNotificationsDataRequest](../by-request-type/GetPaymentNotificationsDataRequest.md), [UpdatePaymentNotificationProcessingStatusDataRequest](../by-request-type/UpdatePaymentNotificationProcessingStatusDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NumberSequenceSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NumberSequenceSqlServerDataService.md) | handler | [GetLatestNumberSequenceDataRequest](../by-request-type/GetLatestNumberSequenceDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.OperationalInsightsSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.OperationalInsightsSqlServerDataService.md) | handler | [GetOperationalInsightsConfigurationRequest](../by-request-type/GetOperationalInsightsConfigurationRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.PickupTimeslotSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.PickupTimeslotSqlServerDataService.md) | handler | [GetDefinedPickupTimeslotsDataRequest](../by-request-type/GetDefinedPickupTimeslotsDataRequest.md), [GetEstimatedPickupTimeslotAvailabilitiesDataRequest](../by-request-type/GetEstimatedPickupTimeslotAvailabilitiesDataRequest.md) |
@@ -183,8 +184,7 @@
 | [Microsoft.Dynamics.Commerce.Runtime.XZReportsAustria.XZReportsAustriaSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.XZReportsAustria.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.XZReportsAustria.XZReportsAustriaSqlServerDataService.md) | handler | [GetAustriaShiftStaffTenderedAmountDataRequest](../by-request-type/GetAustriaShiftStaffTenderedAmountDataRequest.md), [GetClosedAustriaShiftDetailsDataRequest](../by-request-type/GetClosedAustriaShiftDetailsDataRequest.md), [CalculateShiftAustriaDetailsDataRequest](../by-request-type/CalculateShiftAustriaDetailsDataRequest.md), [UpdateShiftStagingTableDataRequest](../by-request-type/UpdateShiftStagingTableDataRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.XZReportsNorway.XZReportsNorwayService (Microsoft.Dynamics.Commerce.Runtime.XZReportsNorway.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.XZReportsNorway.XZReportsNorwayService.md) | handler | [GetXAndZReportReceiptRequest](../by-request-type/GetXAndZReportReceiptRequest.md), [ChangeShiftStatusRequest](../by-request-type/ChangeShiftStatusRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.XZReportsNorway.XZReportsNorwaySqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.XZReportsNorway.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.XZReportsNorway.XZReportsNorwaySqlServerDataService.md) | handler | [CalculateShiftDetailsNorwayDataRequest](../by-request-type/CalculateShiftDetailsNorwayDataRequest.md), [GetLastClosedShiftDetailsNorwayDataRequest](../by-request-type/GetLastClosedShiftDetailsNorwayDataRequest.md), [SaveXZReportDataRequest](../by-request-type/SaveXZReportDataRequest.md), [SaveSalesTransactionDataRequest](../by-request-type/SaveSalesTransactionDataRequest.md) |
-| [Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.dll)](../by-handler/Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler__Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.md) | single_handler | [GetEnvironmentConfigurationServiceRequest](../by-request-type/GetEnvironmentConfigurationServiceRequest.md) |
-| [Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.dll)](../by-handler/Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler__Microsoft.Dynamics.Retail.RetailServerLibrary.md) | single_handler | [GetEnvironmentConfigurationServiceRequest](../by-request-type/GetEnvironmentConfigurationServiceRequest.md) |
+| [Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler (Microsoft.Dynamics.Retail.RetailServerLibrary.AspNetCore.dll)](../by-handler/Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceRuntimeHandlers.GetEnvironmentConfigurationServiceRequestHandler.md) | single_handler | [GetEnvironmentConfigurationServiceRequest](../by-request-type/GetEnvironmentConfigurationServiceRequest.md) |
 
 ## Triggers (4)
 
@@ -195,7 +195,7 @@
 | Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition.PipelineRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll) |  |
 | Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidatePayByLinkTrigger (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll) | [CreateAndSavePaymentLinkToCartServiceRequest](../by-request-type/CreateAndSavePaymentLinkToCartServiceRequest.md), [CreatePaymentLinkServiceRequest](../by-request-type/CreatePaymentLinkServiceRequest.md), [CancelCartPaymentLinkRequest](../by-request-type/CancelCartPaymentLinkRequest.md), [CancelPaymentLinkServiceRequest](../by-request-type/CancelPaymentLinkServiceRequest.md), [ProcessPaymentLinkRequest](../by-request-type/ProcessPaymentLinkRequest.md), [ProcessPaymentNotificationServiceRequest](../by-request-type/ProcessPaymentNotificationServiceRequest.md), [GetPaymentLinkDefaultParametersServiceRequest](../by-request-type/GetPaymentLinkDefaultParametersServiceRequest.md) |
 
-## Request Types (370)
+## Request Types (373)
 
 ### AcceptCommerceListInvitationRealtimeRequest
 
@@ -1255,6 +1255,18 @@
 |------|----------|
 | `ChecklistSearchCriteria` | SearchCriteria |
 
+### GetCheckoutErrorLogDataRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCheckoutErrorLogDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)
+**Inherits:** DataRequest
+
+| Type | Property |
+|------|----------|
+| `string` | TransactionId |
+| `int` | ErrorLineNum |
+
 ### GetClientBookSearchRefinersDataRequest
 
 **Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetClientBookSearchRefinersDataRequest`
@@ -1781,6 +1793,19 @@
 | `Guid` | ReportId |
 | `IEnumerable<CommerceProperty>` | ReportParameters |
 | `IList<ElectronicReportingParameter>` | CompositeReportParameters |
+
+### GetEmailTemplateByEventNotificationTypeDataRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetEmailTemplateByEventNotificationTypeDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.EmailSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)
+**Inherits:** DataRequest
+
+| Type | Property |
+|------|----------|
+| `string` | LanguageId |
+| `ExtensibleEventNotificationType` | EventNotificationType |
+| `long` | ChannelId |
 
 ### GetEmailTemplateDataRequest
 
@@ -2410,7 +2435,7 @@
 
 **Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOrgUnitContactsDataRequest`
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
-**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.StoreLocatorSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll), Microsoft.Dynamics.Commerce.Runtime.DataServices.StoreLocatorDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.StoreLocatorDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.dll)
 **Inherits:** DataRequest
 
 | Type | Property |
@@ -3315,6 +3340,17 @@
 | `string` | LogEntry |
 | `AuditLogTraceLevel` | LogLevel |
 | `int` | DurationInMilliseconds |
+
+### InsertCheckoutErrorLogDataRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.InsertCheckoutErrorLogDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.CheckoutErrorLogSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)
+**Inherits:** DataRequest
+
+| Type | Property |
+|------|----------|
+| `IReadOnlyCollection<CheckoutError>` | CheckoutErrors |
 
 ### InsertSalesLineReferenceLookupsDataRequest
 

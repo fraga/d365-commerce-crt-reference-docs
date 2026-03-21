@@ -1,6 +1,6 @@
 # Payment
 
-## Handlers (14)
+## Handlers (16)
 
 | Handler | Kind | Supported Requests |
 |---------|------|--------------------|
@@ -10,11 +10,13 @@
 | [Microsoft.Dynamics.Commerce.Runtime.Services.CashPaymentService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CashPaymentService.md) | handler | [CalculatePaymentAmountServiceRequest](../by-request-type/CalculatePaymentAmountServiceRequest.md), [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md), [VoidPaymentServiceRequest](../by-request-type/VoidPaymentServiceRequest.md), [GetChangePaymentServiceRequest](../by-request-type/GetChangePaymentServiceRequest.md), [IsTenderLineLinkedRefundableServiceRequest](../by-request-type/IsTenderLineLinkedRefundableServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Services.CheckPaymentService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CheckPaymentService.md) | handler | [CalculatePaymentAmountServiceRequest](../by-request-type/CalculatePaymentAmountServiceRequest.md), [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md), [VoidPaymentServiceRequest](../by-request-type/VoidPaymentServiceRequest.md), [GetChangePaymentServiceRequest](../by-request-type/GetChangePaymentServiceRequest.md), [IsTenderLineLinkedRefundableServiceRequest](../by-request-type/IsTenderLineLinkedRefundableServiceRequest.md) (+1) |
 | [Microsoft.Dynamics.Commerce.Runtime.Services.CommerceServicePaymentNotificationHandler (Microsoft.Dynamics.Commerce.Runtime.CopilotServices.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CommerceServicePaymentNotificationHandler.md) | handler | [CreatePaymentNotificationSubscriptionRequest](../by-request-type/CreatePaymentNotificationSubscriptionRequest.md), [DeletePaymentNotificationSubscriptionRequest](../by-request-type/DeletePaymentNotificationSubscriptionRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Services.CreateAsynchronousPaymentServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CreateAsynchronousPaymentServiceRequestHandler.md) | single_handler | [CreateAsynchronousPaymentServiceRequest](../by-request-type/CreateAsynchronousPaymentServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Services.CurrencyPaymentService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.CurrencyPaymentService.md) | handler | [CalculatePaymentAmountServiceRequest](../by-request-type/CalculatePaymentAmountServiceRequest.md), [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md), [VoidPaymentServiceRequest](../by-request-type/VoidPaymentServiceRequest.md), [GetChangePaymentServiceRequest](../by-request-type/GetChangePaymentServiceRequest.md), [IsTenderLineLinkedRefundableServiceRequest](../by-request-type/IsTenderLineLinkedRefundableServiceRequest.md) (+1) |
-| [Microsoft.Dynamics.Commerce.Runtime.Services.PaymentManagerService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.PaymentManagerService.md) | handler | [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md), [CapturePaymentServiceRequest](../by-request-type/CapturePaymentServiceRequest.md), [GetChangePaymentServiceRequest](../by-request-type/GetChangePaymentServiceRequest.md), [ResolveCardTypesServiceRequest](../by-request-type/ResolveCardTypesServiceRequest.md), [GetGiftCardServiceRequest](../by-request-type/GetGiftCardServiceRequest.md) (+8) |
+| [Microsoft.Dynamics.Commerce.Runtime.Services.PaymentManagerService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Services.PaymentManagerService.md) | handler | [AuthorizePaymentServiceRequest](../by-request-type/AuthorizePaymentServiceRequest.md), [CapturePaymentServiceRequest](../by-request-type/CapturePaymentServiceRequest.md), [GetChangePaymentServiceRequest](../by-request-type/GetChangePaymentServiceRequest.md), [ResolveCardTypesServiceRequest](../by-request-type/ResolveCardTypesServiceRequest.md), [GetGiftCardServiceRequest](../by-request-type/GetGiftCardServiceRequest.md) (+9) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.CalculateTenderDiscountRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CalculateTenderDiscountRequestHandler.md) | single_handler | [CalculateTenderDiscountRequest](../by-request-type/CalculateTenderDiscountRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCardPaymentAcceptPointRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCardPaymentAcceptPointRequestHandler.md) | single_handler | [GetCardPaymentAcceptPointRequest](../by-request-type/GetCardPaymentAcceptPointRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetSupportedCardTypesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetSupportedCardTypesRequestHandler.md) | single_handler | [GetSupportedCardTypesRequest](../by-request-type/GetSupportedCardTypesRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.PostPaymentNotificationHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.PostPaymentNotificationHandler.md) | single_handler | [PostPaymentNotificationRequest](../by-request-type/PostPaymentNotificationRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.ProcessPaymentLinkRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ProcessPaymentLinkRequestHandler.md) | single_handler | [ProcessPaymentLinkRequest](../by-request-type/ProcessPaymentLinkRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveTenderLineRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveTenderLineRequestHandler.md) | single_handler | [SaveTenderLineRequest](../by-request-type/SaveTenderLineRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateTenderLineForAddRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.ValidateTenderLineForAddRequestHandler.md) | single_handler | [ValidateTenderLineForAddRequest](../by-request-type/ValidateTenderLineForAddRequest.md) |
@@ -25,7 +27,7 @@
 |---------|--------------------|
 | Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.Triggers.GetCardTypeDataRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.ElectronicFiscalDocumentBrazil.dll) | [GetCardTypeDataRequest](../by-request-type/GetCardTypeDataRequest.md) |
 
-## Request Types (54)
+## Request Types (58)
 
 ### AddInShiftTenderedAmountsServiceRequest
 
@@ -128,6 +130,19 @@
 | `TenderLine` | TenderLine |
 | `SalesTransaction` | Transaction |
 
+### CreateAsynchronousPaymentServiceRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CreateAsynchronousPaymentServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.Services.CreateAsynchronousPaymentServiceRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)
+**Inherits:** ServiceRequest
+
+| Type | Property |
+|------|----------|
+| `AsynchronousPaymentParameters` | AsyncPaymentParameters |
+| `string` | ReferenceId |
+| `SalesTransaction` | SalesTransaction |
+
 ### CreatePaymentLinkServiceRequest
 
 **Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CreatePaymentLinkServiceRequest`
@@ -164,6 +179,11 @@
 | `string` | ReferenceId |
 | `IList<string>` | EventTypes |
 | `string` | PaymentConnectorName |
+| `string` | DestinationType |
+| `string` | SourceId |
+| `string` | SourceType |
+| `DateTimeOffset` | ExpirationDateTime |
+| `string` | Extension |
 
 ### DeletePaymentNotificationSubscriptionRequest
 
@@ -175,6 +195,7 @@
 | Type | Property |
 |------|----------|
 | `string` | ReferenceId |
+| `IList<string>` | DestinationTypes |
 
 ### FillInLoyaltyRewardPointLinesForPaymentServiceRequest
 
@@ -524,6 +545,17 @@
 | `TenderLine` | TenderLine |
 | `long` | ChannelId |
 
+### PostPaymentNotificationRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.PostPaymentNotificationRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.Workflow.PostPaymentNotificationHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+**Inherits:** Request
+
+| Type | Property |
+|------|----------|
+| `PaymentNotification` | Notification |
+
 ### PostPaymentNotificationServiceRequest
 
 **Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.PostPaymentNotificationServiceRequest`
@@ -659,6 +691,30 @@
 |------|----------|
 | `string` | CartId |
 | `string` | TokenizedPaymentSession |
+
+### UpdatePaymentNotificationProcessingStatusDataRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.UpdatePaymentNotificationProcessingStatusDataRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.NotificationSqlServerDataService (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll)
+**Inherits:** DataRequest
+
+| Type | Property |
+|------|----------|
+| `Guid` | Id |
+| `PaymentNotificationProcessingStatus` | ProcessingStatus |
+
+### UpdatePaymentNotificationProcessingStatusServiceRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UpdatePaymentNotificationProcessingStatusServiceRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Services.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.Services.PaymentManagerService (Microsoft.Dynamics.Commerce.Runtime.Services.Payments.dll)
+**Inherits:** ServiceRequest
+
+| Type | Property |
+|------|----------|
+| `Guid` | Id |
+| `PaymentNotificationProcessingStatus` | ProcessingStatus |
 
 ### ValidatePaymentAmountForOnlineStoreCheckoutRequest
 

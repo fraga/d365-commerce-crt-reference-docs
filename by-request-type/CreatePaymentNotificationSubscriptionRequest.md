@@ -16,3 +16,8 @@
 | `string` | ReferenceId |
 | `IList<string>` | EventTypes |
 | `string` | PaymentConnectorName |
+| `string` | DestinationType |
+| `string` | SourceId |
+| `string` | SourceType |
+| `DateTimeOffset` | ExpirationDateTime |
+| `string` | Extension |

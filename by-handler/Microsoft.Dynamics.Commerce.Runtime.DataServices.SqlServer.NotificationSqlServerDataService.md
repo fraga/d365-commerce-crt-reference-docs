@@ -3,11 +3,12 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (3)
+## Requests Handled (4)
 
 - [GetNotificationAcknowledgementsDataRequest](../by-request-type/GetNotificationAcknowledgementsDataRequest.md)
 - [CreatePaymentNotificationDataRequest](../by-request-type/CreatePaymentNotificationDataRequest.md)
 - [GetPaymentNotificationsDataRequest](../by-request-type/GetPaymentNotificationsDataRequest.md)
+- [UpdatePaymentNotificationProcessingStatusDataRequest](../by-request-type/UpdatePaymentNotificationProcessingStatusDataRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -20,3 +21,4 @@ No triggers were found for this handler's request types.
 | [GetNotificationAcknowledgementsDataRequest](../by-request-type/GetNotificationAcknowledgementsDataRequest.md) |  |
 | [CreatePaymentNotificationDataRequest](../by-request-type/CreatePaymentNotificationDataRequest.md) |  |
 | [GetPaymentNotificationsDataRequest](../by-request-type/GetPaymentNotificationsDataRequest.md) |  |
+| [UpdatePaymentNotificationProcessingStatusDataRequest](../by-request-type/UpdatePaymentNotificationProcessingStatusDataRequest.md) |  |

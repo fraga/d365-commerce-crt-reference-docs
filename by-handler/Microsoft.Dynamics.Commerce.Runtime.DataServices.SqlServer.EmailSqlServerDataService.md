@@ -3,9 +3,10 @@
 **Assembly:** Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.dll
 **Kind:** handler
 
-## Requests Handled (1)
+## Requests Handled (2)
 
 - [GetEmailTemplateDataRequest](../by-request-type/GetEmailTemplateDataRequest.md)
+- [GetEmailTemplateByEventNotificationTypeDataRequest](../by-request-type/GetEmailTemplateByEventNotificationTypeDataRequest.md)
 
 ## Neighboring Triggers (0)
 
@@ -16,3 +17,4 @@ No triggers were found for this handler's request types.
 | Request Type | Triggers |
 |-------------|----------|
 | [GetEmailTemplateDataRequest](../by-request-type/GetEmailTemplateDataRequest.md) |  |
+| [GetEmailTemplateByEventNotificationTypeDataRequest](../by-request-type/GetEmailTemplateByEventNotificationTypeDataRequest.md) |  |

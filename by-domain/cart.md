@@ -1,6 +1,6 @@
 # Cart
 
-## Handlers (27)
+## Handlers (29)
 
 | Handler | Kind | Supported Requests |
 |---------|------|--------------------|
@@ -12,6 +12,7 @@
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.CancelCartPaymentLinkHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CancelCartPaymentLinkHandler.md) | single_handler | [CancelCartPaymentLinkRequest](../by-request-type/CancelCartPaymentLinkRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.CheckoutCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CheckoutCartRequestHandler.md) | single_handler | [CheckoutCartRequest](../by-request-type/CheckoutCartRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.CopyCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CopyCartRequestHandler.md) | single_handler | [CopyCartRequest](../by-request-type/CopyCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSaveAsynchronousPaymentToCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSaveAsynchronousPaymentToCartRequestHandler.md) | single_handler | [CreateAndSaveAsynchronousPaymentToCartRequest](../by-request-type/CreateAndSaveAsynchronousPaymentToCartRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSavePaymentLinkToCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSavePaymentLinkToCartRequestHandler.md) | single_handler | [CreateAndSavePaymentLinkToCartServiceRequest](../by-request-type/CreateAndSavePaymentLinkToCartServiceRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateCartRequestHandler.md) | single_handler | [CreateCartRequest](../by-request-type/CreateCartRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCartRequestHandler.md) | single_handler | [GetCartRequest](../by-request-type/GetCartRequest.md) |
@@ -25,6 +26,7 @@
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartLinesRequestHandler.md) | single_handler | [SaveCartLinesRequest](../by-request-type/SaveCartLinesRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveCartRequestHandler.md) | single_handler | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.SavePaymentLinkToCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SavePaymentLinkToCartRequestHandler.md) | single_handler | [SavePaymentLinkToCartRequest](../by-request-type/SavePaymentLinkToCartRequest.md) |
+| [Microsoft.Dynamics.Commerce.Runtime.Workflow.SetCartLockRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SetCartLockRequestHandler.md) | single_handler | [SetCartLockRequest](../by-request-type/SetCartLockRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler.md) | single_handler | [SuspendCartRequest](../by-request-type/SuspendCartRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.TransferCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.TransferCartRequestHandler.md) | single_handler | [TransferCartRequest](../by-request-type/TransferCartRequest.md) |
 | [Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartLinesRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)](../by-handler/Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateCartLinesRequestHandler.md) | single_handler | [UpdateCartLinesRequest](../by-request-type/UpdateCartLinesRequest.md) |
@@ -46,7 +48,7 @@
 | Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdItaly.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
 | Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.Triggers.SaveCartRequestTrigger (Microsoft.Dynamics.Commerce.Runtime.TaxRegistrationIdPoland.dll) | [SaveCartRequest](../by-request-type/SaveCartRequest.md) |
 
-## Request Types (51)
+## Request Types (53)
 
 ### AddCartLineChargeRequest
 
@@ -222,6 +224,19 @@
 | `string` | CartId |
 | `bool` | IsRewrite |
 | `bool` | IsQuantityAggregate |
+
+### CreateAndSaveAsynchronousPaymentToCartRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.CreateAndSaveAsynchronousPaymentToCartRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateAndSaveAsynchronousPaymentToCartRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+**Inherits:** Request
+
+| Type | Property |
+|------|----------|
+| `AsynchronousPaymentParameters` | AsyncPaymentParameters |
+| `string` | CartId |
+| `long?` | CartVersion |
 
 ### CreateAndSavePaymentLinkToCartServiceRequest
 
@@ -557,6 +572,19 @@
 |------|----------|
 | `SalesTransaction` | Cart |
 | `IEnumerable<string>` | LineIds |
+
+### SetCartLockRequest
+
+**Full name:** `Microsoft.Dynamics.Commerce.Runtime.Messages.SetCartLockRequest`
+**Assembly:** Microsoft.Dynamics.Commerce.Runtime.Messages.dll
+**Handled by:** Microsoft.Dynamics.Commerce.Runtime.Workflow.SetCartLockRequestHandler (Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)
+**Inherits:** Request
+
+| Type | Property |
+|------|----------|
+| `string` | CartId |
+| `CartLockAction` | CartLockAction |
+| `long?` | CartVersion |
 
 ### SuspendCartRequest
 

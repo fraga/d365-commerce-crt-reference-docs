@@ -14,3 +14,4 @@
 | Type | Name |
 |------|------|
 | `string` | ReferenceId |
+| `IList<string>` | DestinationTypes |
