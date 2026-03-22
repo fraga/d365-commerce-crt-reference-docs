@@ -17,6 +17,36 @@ Generated from: `sdk/9.56`
 3. Requirement mentions existing class/assembly: start in `by-handler/`.
 4. Validate request neighbors: use the handler page's `Neighboring Triggers` section.
 
+## 9.56 Changelog
+
+The following extension points are new in 9.56:
+
+**Cart & Checkout:**
+* `SetCartLockRequest`
+* `CreateAndSaveAsynchronousPaymentToCartRequest`
+* `CreateAsynchronousPaymentServiceRequest`
+* `GetSalesTransactionCheckoutResultByTransactionIdRequest`
+* `CheckSalesTransactionExistenceDataRequest`
+* `SetCartLockRequestHandler`
+* `CreateAsynchronousPaymentServiceRequestHandler`
+* `CreateAndSaveAsynchronousPaymentToCartRequestHandler`
+
+**Payment Notifications:**
+* `PostPaymentNotificationRequest`
+* `UpdatePaymentNotificationProcessingStatusDataRequest`
+* `UpdatePaymentNotificationProcessingStatusServiceRequest`
+* `PostPaymentNotificationHandler`
+
+**Diagnostics & Error Logging:**
+* `GetCheckoutErrorLogDataRequest`
+* `InsertCheckoutErrorLogDataRequest`
+* `CheckoutErrorLogSqlServerDataService`
+
+**System & Infrastructure:**
+* `GetEmailTemplateByEventNotificationTypeDataRequest`
+* `GetNonDefaultLanguageIdDataRequest`
+* `PurgeTerminalStateDataRequest`
+
 ## C# Anatomy
 
 - Use a request handler when you own the request implementation.
